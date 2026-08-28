@@ -1,29 +1,36 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>全球优选AI导航</title>
-  <meta name="description" content="全球优选AI导航 · 每日更新常用AI工具" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="top">
     <div>
       <h1>全球优选AI导航</h1>
-      <p class="sub">Global YouXuan · 每日更新</p>
+      <p class="sub" id="meta">每日更新</p>
     </div>
-    <a class="bot" href="https://t.me/globalyouxuanaibot">@机器人</a>
+    <div class="actions">
+      <button id="theme" type="button">浅色</button>
+      <a class="bot" href="https://t.me/globalyouxuanaibot">@机器人</a>
+    </div>
   </header>
-  <section class="search-wrap">
-    <input id="q" type="search" placeholder="搜索工具 / 分类" autocomplete="off" />
-    <p class="meta" id="meta">加载中…</p>
+  <section class="hot">
+    <div class="hot-title">每日热门 · 前10</div>
+    <div id="hot" class="hot-track"></div>
   </section>
-  <nav class="cats" id="cats"></nav>
-  <main id="list"></main>
+  <div class="layout">
+    <aside id="side" class="side"></aside>
+    <section>
+      <input id="q" type="search" placeholder="搜索中外 AI 工具" autocomplete="off" />
+      <p class="count" id="count"></p>
+      <main id="list"></main>
+    </section>
+  </div>
   <footer>
-    <a href="https://t.me/globalyouxuanaibot">Telegram 自动机器人 @globalyouxuanaibot</a>
-    <p>全球优选 · AI导航</p>
+    <a href="https://t.me/globalyouxuanaibot">@globalyouxuanaibot</a>
   </footer>
   <script src="app.js"></script>
 </body>
