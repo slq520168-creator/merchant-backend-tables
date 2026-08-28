@@ -20,12 +20,19 @@ themeBtn.onclick = () => {
 };
 
 async function load() {
-  const [data, meta, hot] = await Promise.all([
+  const [data, more, meta, hot] = await Promise.all([
     fetch('data/tools.json').then(r => r.json()),
+    fetch('data/tools-more.json').then(r => r.json()).catch(() => []),
     fetch('data/meta.json').then(r => r.json()).catch(() => ({})),
     fetch('data/hot.json').then(r => r.json()).catch(() => [])
   ]);
-  tools = data;
+  const seen = new Set();
+  tools = [];
+  for (const t of data.concat(more)) {
+    if (seen.has(t.name)) continue;
+    seen.add(t.name);
+    tools.push(t);
+  }
   metaEl.textContent = `更新 ${meta.updated || '—'} · ${tools.length} 款`;
   hotEl.innerHTML = hot.map((h, i) =>
     `<a href="${h.url}" target="_blank" rel="noopener"><span>${i + 1} · ${h.tag || '热点'}</span><b>${h.title}</b></a>`
