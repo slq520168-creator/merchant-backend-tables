@@ -1,12 +1,52 @@
 [
-  {"title":"Grok 上线 Imagine 生图","url":"https://grok.com","tag":"热点"},
-  {"title":"DeepSeek 免费推理持续火","url":"https://chat.deepseek.com","tag":"软件"},
-  {"title":"即梦 / Seedance 视频出圈","url":"https://jimeng.jianying.com","tag":"视频"},
-  {"title":"Claude 长文与编程仍强","url":"https://claude.ai","tag":"对话"},
-  {"title":"可灵 视频额度友好","url":"https://klingai.com","tag":"视频"},
-  {"title":"Cursor / Trae 编程编辑器","url":"https://cursor.com","tag":"编程"},
-  {"title":"Suno 继续霸榜AI音乐","url":"https://suno.com","tag":"音乐"},
-  {"title":"Ollama 本地模型最省事","url":"https://ollama.com","tag":"开源"},
-  {"title":"Gemini + Veo 全家桶","url":"https://gemini.google.com","tag":"谷歌"},
-  {"title":"扣子 Coze 免费做智能体","url":"https://www.coze.cn","tag":"智能体"}
+  {
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "海绵音乐 · 网易AI音乐",
+    "url": "https://www.haimian.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "Trae · 字节免费AI IDE",
+    "url": "https://www.trae.ai",
+    "tag": "编程"
+  },
+  {
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
+    "tag": "语音"
+  },
+  {
+    "title": "Grammarly · 英文润色校对",
+    "url": "https://www.grammarly.com",
+    "tag": "写作"
+  },
+  {
+    "title": "Bolt.new · 对话生成全栈应用",
+    "url": "https://bolt.new",
+    "tag": "编程"
+  },
+  {
+    "title": "FastGPT · 知识库问答搭建",
+    "url": "https://fastgpt.in",
+    "tag": "智能体"
+  },
+  {
+    "title": "Flux · 开源真实感绘图",
+    "url": "https://flux.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "HuggingChat · 开源模型在线聊",
+    "url": "https://huggingface.co/chat",
+    "tag": "对话"
+  }
 ]
