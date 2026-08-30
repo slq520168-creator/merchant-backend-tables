@@ -1,13 +1,28 @@
 [
   {
-    "title": "Aider · 终端结对编程",
-    "url": "https://aider.chat",
+    "title": "豆包 · 字节免费助手",
+    "url": "https://www.doubao.com",
+    "tag": "对话"
+  },
+  {
+    "title": "创客贴 · 海报模板设计",
+    "url": "https://www.chuangkit.com",
+    "tag": "设计"
+  },
+  {
+    "title": "即梦 · 字节文生图/视频",
+    "url": "https://jimeng.jianying.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "通义灵码 · 阿里编程助手",
+    "url": "https://lingma.aliyun.com",
     "tag": "编程"
   },
   {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
+    "title": "Luma Genie · 文本生成3D",
+    "url": "https://lumalabs.ai/genie",
+    "tag": "3D"
   },
   {
     "title": "海绵音乐 · 网易AI音乐",
@@ -15,38 +30,23 @@
     "tag": "音乐"
   },
   {
-    "title": "Trae · 字节免费AI IDE",
-    "url": "https://www.trae.ai",
-    "tag": "编程"
+    "title": "Elicit · 文献研究助手",
+    "url": "https://elicit.com",
+    "tag": "搜索"
   },
   {
-    "title": "Whisper · 开源语音识别",
-    "url": "https://openai.com/research/whisper",
-    "tag": "语音"
-  },
-  {
-    "title": "Grammarly · 英文润色校对",
-    "url": "https://www.grammarly.com",
-    "tag": "写作"
-  },
-  {
-    "title": "Bolt.new · 对话生成全栈应用",
-    "url": "https://bolt.new",
-    "tag": "编程"
-  },
-  {
-    "title": "FastGPT · 知识库问答搭建",
-    "url": "https://fastgpt.in",
-    "tag": "智能体"
-  },
-  {
-    "title": "Flux · 开源真实感绘图",
-    "url": "https://flux.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
     "tag": "对话"
+  },
+  {
+    "title": "Phind · 程序员AI搜索",
+    "url": "https://www.phind.com",
+    "tag": "搜索"
+  },
+  {
+    "title": "秘塔写作猫 · 中文写作辅助",
+    "url": "https://xiezuocat.com",
+    "tag": "写作"
   }
 ]
