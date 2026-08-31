@@ -1,17 +1,22 @@
 [
   {
-    "title": "豆包 · 字节免费助手",
-    "url": "https://www.doubao.com",
-    "tag": "对话"
+    "title": "Phind · 程序员AI搜索",
+    "url": "https://www.phind.com",
+    "tag": "搜索"
   },
   {
-    "title": "创客贴 · 海报模板设计",
-    "url": "https://www.chuangkit.com",
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
     "tag": "设计"
   },
   {
-    "title": "即梦 · 字节文生图/视频",
-    "url": "https://jimeng.jianying.com",
+    "title": "Udio · AI作曲演唱",
+    "url": "https://www.udio.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "吐司AI · 在线SD绘画社区",
+    "url": "https://tusi.cn",
     "tag": "绘画"
   },
   {
@@ -20,33 +25,28 @@
     "tag": "编程"
   },
   {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
-  },
-  {
-    "title": "海绵音乐 · 网易AI音乐",
-    "url": "https://www.haimian.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "Elicit · 文献研究助手",
-    "url": "https://elicit.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
-    "tag": "对话"
-  },
-  {
-    "title": "Phind · 程序员AI搜索",
-    "url": "https://www.phind.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "秘塔写作猫 · 中文写作辅助",
-    "url": "https://xiezuocat.com",
+    "title": "Jenni · 论文写作助手",
+    "url": "https://jenni.ai",
     "tag": "写作"
+  },
+  {
+    "title": "Gamma · 一键生成PPT",
+    "url": "https://gamma.app",
+    "tag": "办公"
+  },
+  {
+    "title": "Leonardo · 风格化生图",
+    "url": "https://leonardo.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "Flux · 开源真实感绘图",
+    "url": "https://flux.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
   }
 ]
