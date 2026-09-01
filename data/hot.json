@@ -1,13 +1,28 @@
 [
   {
-    "title": "Phind · 程序员AI搜索",
-    "url": "https://www.phind.com",
-    "tag": "搜索"
+    "title": "Grammarly · 英文润色校对",
+    "url": "https://www.grammarly.com",
+    "tag": "写作"
   },
   {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
-    "tag": "设计"
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "LM Studio · 本地模型桌面端",
+    "url": "https://lmstudio.ai",
+    "tag": "开源本地"
+  },
+  {
+    "title": "海绵音乐 · 网易AI音乐",
+    "url": "https://www.haimian.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "钉钉 · 钉钉智能办公",
+    "url": "https://www.dingtalk.com",
+    "tag": "办公"
   },
   {
     "title": "Udio · AI作曲演唱",
@@ -15,38 +30,23 @@
     "tag": "音乐"
   },
   {
-    "title": "吐司AI · 在线SD绘画社区",
-    "url": "https://tusi.cn",
-    "tag": "绘画"
-  },
-  {
-    "title": "通义灵码 · 阿里编程助手",
-    "url": "https://lingma.aliyun.com",
+    "title": "Cline · 开源VSCode智能体",
+    "url": "https://github.com/cline/cline",
     "tag": "编程"
   },
   {
-    "title": "Jenni · 论文写作助手",
-    "url": "https://jenni.ai",
-    "tag": "写作"
+    "title": "飞书妙记 · 会议纪要转写",
+    "url": "https://www.feishu.cn/product/minutes",
+    "tag": "语音"
   },
   {
-    "title": "Gamma · 一键生成PPT",
-    "url": "https://gamma.app",
-    "tag": "办公"
+    "title": "Windsurf · Codeium AI IDE",
+    "url": "https://windsurf.com",
+    "tag": "编程"
   },
   {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Flux · 开源真实感绘图",
-    "url": "https://flux.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
   }
 ]
