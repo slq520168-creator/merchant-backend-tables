@@ -1,52 +1,52 @@
 [
   {
-    "title": "Grammarly · 英文润色校对",
-    "url": "https://www.grammarly.com",
-    "tag": "写作"
+    "title": "吐司AI · 在线SD绘画社区",
+    "url": "https://tusi.cn",
+    "tag": "绘画"
   },
   {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
+    "title": "Luma Genie · 文本生成3D",
+    "url": "https://lumalabs.ai/genie",
+    "tag": "3D"
   },
   {
-    "title": "LM Studio · 本地模型桌面端",
-    "url": "https://lmstudio.ai",
+    "title": "Playground · 免费画布生图",
+    "url": "https://playground.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Adobe Firefly · 商用安全生图",
+    "url": "https://firefly.adobe.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
     "tag": "开源本地"
-  },
-  {
-    "title": "海绵音乐 · 网易AI音乐",
-    "url": "https://www.haimian.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "钉钉 · 钉钉智能办公",
-    "url": "https://www.dingtalk.com",
-    "tag": "办公"
-  },
-  {
-    "title": "Udio · AI作曲演唱",
-    "url": "https://www.udio.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "Cline · 开源VSCode智能体",
-    "url": "https://github.com/cline/cline",
-    "tag": "编程"
-  },
-  {
-    "title": "飞书妙记 · 会议纪要转写",
-    "url": "https://www.feishu.cn/product/minutes",
-    "tag": "语音"
-  },
-  {
-    "title": "Windsurf · Codeium AI IDE",
-    "url": "https://windsurf.com",
-    "tag": "编程"
   },
   {
     "title": "讯飞配音 · 中文配音",
     "url": "https://peiyin.xunfei.cn",
     "tag": "语音"
+  },
+  {
+    "title": "DeepL · 高质量翻译",
+    "url": "https://www.deepl.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "秘塔AI · 无广告中文AI搜索",
+    "url": "https://metaso.cn",
+    "tag": "搜索"
+  },
+  {
+    "title": "D-ID · 照片说话视频",
+    "url": "https://www.d-id.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Cline · 开源VSCode智能体",
+    "url": "https://github.com/cline/cline",
+    "tag": "编程"
   }
 ]
