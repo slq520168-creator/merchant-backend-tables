@@ -1,52 +1,52 @@
 [
   {
-    "title": "吐司AI · 在线SD绘画社区",
-    "url": "https://tusi.cn",
-    "tag": "绘画"
-  },
-  {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
-  },
-  {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Adobe Firefly · 商用安全生图",
-    "url": "https://firefly.adobe.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Ollama · 本地一键跑大模型",
-    "url": "https://ollama.com",
-    "tag": "开源本地"
-  },
-  {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
     "tag": "语音"
   },
   {
-    "title": "DeepL · 高质量翻译",
-    "url": "https://www.deepl.com",
+    "title": "Gamma · 一键生成PPT",
+    "url": "https://gamma.app",
+    "tag": "办公"
+  },
+  {
+    "title": "Liblib · 哩布哩布模型社区",
+    "url": "https://www.liblib.art",
+    "tag": "绘画"
+  },
+  {
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
     "tag": "翻译"
   },
   {
-    "title": "秘塔AI · 无广告中文AI搜索",
-    "url": "https://metaso.cn",
-    "tag": "搜索"
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
   },
   {
-    "title": "D-ID · 照片说话视频",
-    "url": "https://www.d-id.com",
-    "tag": "视频"
+    "title": "Ideogram · 文字渲染出色",
+    "url": "https://ideogram.ai",
+    "tag": "绘画"
   },
   {
     "title": "Cline · 开源VSCode智能体",
     "url": "https://github.com/cline/cline",
     "tag": "编程"
+  },
+  {
+    "title": "DeepSeek · 深度求索 免费推理",
+    "url": "https://chat.deepseek.com",
+    "tag": "对话"
+  },
+  {
+    "title": "HeyGen · 数字人口播",
+    "url": "https://www.heygen.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Meta AI · Meta 免费助手",
+    "url": "https://www.meta.ai",
+    "tag": "对话"
   }
 ]
