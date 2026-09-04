@@ -1,23 +1,13 @@
 [
   {
-    "title": "Whisper · 开源语音识别",
-    "url": "https://openai.com/research/whisper",
-    "tag": "语音"
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
+    "tag": "智能体"
   },
   {
-    "title": "Gamma · 一键生成PPT",
-    "url": "https://gamma.app",
-    "tag": "办公"
-  },
-  {
-    "title": "Liblib · 哩布哩布模型社区",
-    "url": "https://www.liblib.art",
-    "tag": "绘画"
-  },
-  {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
+    "title": "Perplexity · 带引用的AI搜索",
+    "url": "https://www.perplexity.ai",
+    "tag": "搜索"
   },
   {
     "title": "Aider · 终端结对编程",
@@ -25,28 +15,38 @@
     "tag": "编程"
   },
   {
-    "title": "Ideogram · 文字渲染出色",
-    "url": "https://ideogram.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Cline · 开源VSCode智能体",
-    "url": "https://github.com/cline/cline",
-    "tag": "编程"
-  },
-  {
-    "title": "DeepSeek · 深度求索 免费推理",
-    "url": "https://chat.deepseek.com",
+    "title": "Claude · Anthropic 长文与推理",
+    "url": "https://claude.ai",
     "tag": "对话"
   },
   {
-    "title": "HeyGen · 数字人口播",
-    "url": "https://www.heygen.com",
+    "title": "腾讯智影 · 腾讯数字人视频",
+    "url": "https://zenvideo.qq.com",
     "tag": "视频"
   },
   {
-    "title": "Meta AI · Meta 免费助手",
-    "url": "https://www.meta.ai",
+    "title": "通义千问 · 阿里通义对话",
+    "url": "https://tongyi.aliyun.com",
     "tag": "对话"
+  },
+  {
+    "title": "You.com · AI 搜索引擎",
+    "url": "https://you.com",
+    "tag": "搜索"
+  },
+  {
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
+    "tag": "设计"
+  },
+  {
+    "title": "Genspark · AI 超级搜索代理",
+    "url": "https://www.genspark.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "钉钉 · 钉钉智能办公",
+    "url": "https://www.dingtalk.com",
+    "tag": "办公"
   }
 ]
