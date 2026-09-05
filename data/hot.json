@@ -1,52 +1,52 @@
 [
   {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
-    "tag": "智能体"
+    "title": "Leonardo · 风格化生图",
+    "url": "https://leonardo.ai",
+    "tag": "绘画"
   },
   {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
+    "tag": "绘画"
   },
   {
-    "title": "Aider · 终端结对编程",
-    "url": "https://aider.chat",
-    "tag": "编程"
-  },
-  {
-    "title": "Claude · Anthropic 长文与推理",
-    "url": "https://claude.ai",
+    "title": "Poe · 多模型聚合对话",
+    "url": "https://poe.com",
     "tag": "对话"
   },
   {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
-  },
-  {
-    "title": "通义千问 · 阿里通义对话",
-    "url": "https://tongyi.aliyun.com",
-    "tag": "对话"
-  },
-  {
-    "title": "You.com · AI 搜索引擎",
-    "url": "https://you.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
+    "title": "Looka · AI做Logo",
+    "url": "https://looka.com",
     "tag": "设计"
   },
   {
-    "title": "Genspark · AI 超级搜索代理",
-    "url": "https://www.genspark.ai",
-    "tag": "搜索"
+    "title": "HuggingChat · 开源模型在线聊",
+    "url": "https://huggingface.co/chat",
+    "tag": "对话"
   },
   {
-    "title": "钉钉 · 钉钉智能办公",
-    "url": "https://www.dingtalk.com",
-    "tag": "办公"
+    "title": "ComfyUI · 节点式绘图工作流",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "tag": "开源本地"
+  },
+  {
+    "title": "扣子 Coze · 字节智能体搭建",
+    "url": "https://www.coze.cn",
+    "tag": "智能体"
+  },
+  {
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "创客贴 · 海报模板设计",
+    "url": "https://www.chuangkit.com",
+    "tag": "设计"
+  },
+  {
+    "title": "DeepL · 高质量翻译",
+    "url": "https://www.deepl.com",
+    "tag": "翻译"
   }
 ]
