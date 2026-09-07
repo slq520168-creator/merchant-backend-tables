@@ -1,13 +1,8 @@
 [
   {
-    "title": "Ideogram · 文字渲染出色",
-    "url": "https://ideogram.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "通义千问 · 阿里通义对话",
-    "url": "https://tongyi.aliyun.com",
-    "tag": "对话"
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
   },
   {
     "title": "Aider · 终端结对编程",
@@ -15,38 +10,43 @@
     "tag": "编程"
   },
   {
+    "title": "可灵 · 快手视频生成",
+    "url": "https://klingai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Notion AI · 笔记知识库",
+    "url": "https://www.notion.so/product/ai",
+    "tag": "办公"
+  },
+  {
     "title": "腾讯智影 · 腾讯数字人视频",
     "url": "https://zenvideo.qq.com",
     "tag": "视频"
   },
   {
-    "title": "Civitai · 开源模型市场",
-    "url": "https://civitai.com",
-    "tag": "绘画"
+    "title": "Riffusion · 免费生成音乐",
+    "url": "https://www.riffusion.com",
+    "tag": "音乐"
   },
   {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
-    "tag": "绘画"
+    "title": "腾讯元宝 · 腾讯混元助手",
+    "url": "https://yuanbao.tencent.com",
+    "tag": "对话"
   },
   {
-    "title": "Luma · Dream Machine",
-    "url": "https://lumalabs.ai",
-    "tag": "视频"
+    "title": "ComfyUI · 节点式绘图工作流",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "tag": "开源本地"
   },
   {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
-    "tag": "绘画"
+    "title": "通义灵码 · 阿里编程助手",
+    "url": "https://lingma.aliyun.com",
+    "tag": "编程"
   },
   {
-    "title": "Upscayl · 开源图片放大",
-    "url": "https://upscayl.org",
-    "tag": "设计"
-  },
-  {
-    "title": "通义听悟 · 会议录音转写",
-    "url": "https://tingwu.aliyun.com",
-    "tag": "语音"
+    "title": "Grammarly · 英文润色校对",
+    "url": "https://www.grammarly.com",
+    "tag": "写作"
   }
 ]
