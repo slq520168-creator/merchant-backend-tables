@@ -1,52 +1,52 @@
 [
   {
-    "title": "v0 · Vercel 生成前端",
-    "url": "https://v0.dev",
+    "title": "ChatDOC · 文档问答",
+    "url": "https://chatdoc.com",
+    "tag": "办公"
+  },
+  {
+    "title": "GitHub Copilot · IDE 代码补全",
+    "url": "https://github.com/features/copilot",
     "tag": "编程"
   },
   {
-    "title": "FastGPT · 知识库问答搭建",
-    "url": "https://fastgpt.in",
-    "tag": "智能体"
-  },
-  {
-    "title": "Vidu · 生数视频生成",
-    "url": "https://www.vidu.com",
-    "tag": "视频"
-  },
-  {
-    "title": "DeepL · 高质量翻译",
-    "url": "https://www.deepl.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "Runway · 专业视频生成剪辑",
-    "url": "https://runwayml.com",
-    "tag": "视频"
-  },
-  {
-    "title": "SeaArt · 海艺免费绘画",
-    "url": "https://www.seaart.ai",
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
     "tag": "绘画"
   },
   {
-    "title": "Cursor · AI 原生编辑器",
-    "url": "https://cursor.com",
-    "tag": "编程"
+    "title": "即梦视频 · 字节视频生成",
+    "url": "https://jimeng.jianying.com",
+    "tag": "视频"
   },
   {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
+    "title": "Synthesia · 企业数字人",
+    "url": "https://www.synthesia.io",
+    "tag": "视频"
   },
   {
-    "title": "Gemini · 谷歌多模态助手",
-    "url": "https://gemini.google.com",
-    "tag": "对话"
+    "title": "Upscayl · 开源图片放大",
+    "url": "https://upscayl.org",
+    "tag": "设计"
+  },
+  {
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "D-ID · 照片说话视频",
+    "url": "https://www.d-id.com",
+    "tag": "视频"
+  },
+  {
+    "title": "天工音乐 · 昆仑万维音乐",
+    "url": "https://music.tiangong.cn",
+    "tag": "音乐"
   }
 ]
