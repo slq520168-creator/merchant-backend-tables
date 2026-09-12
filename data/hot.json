@@ -1,52 +1,52 @@
 [
   {
-    "title": "Open WebUI · 本地Chat界面",
-    "url": "https://openwebui.com",
-    "tag": "开源本地"
+    "title": "腾讯智影 · 腾讯数字人视频",
+    "url": "https://zenvideo.qq.com",
+    "tag": "视频"
   },
   {
-    "title": "QuillBot · 英文改写",
-    "url": "https://quillbot.com",
-    "tag": "写作"
+    "title": "Upscayl · 开源图片放大",
+    "url": "https://upscayl.org",
+    "tag": "设计"
   },
   {
-    "title": "Gemini · 谷歌多模态助手",
-    "url": "https://gemini.google.com",
-    "tag": "对话"
-  },
-  {
-    "title": "飞书妙记 · 会议纪要转写",
-    "url": "https://www.feishu.cn/product/minutes",
-    "tag": "语音"
-  },
-  {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
-    "tag": "对话"
-  },
-  {
-    "title": "通义听悟 · 会议录音转写",
-    "url": "https://tingwu.aliyun.com",
-    "tag": "语音"
-  },
-  {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
-  },
-  {
-    "title": "n8n · 开源工作流自动化",
-    "url": "https://n8n.io",
-    "tag": "智能体"
-  },
-  {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
     "tag": "绘画"
   },
   {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
+    "tag": "语音"
+  },
+  {
+    "title": "Consensus · 论文结论搜索",
+    "url": "https://consensus.app",
+    "tag": "搜索"
+  },
+  {
+    "title": "LM Studio · 本地模型桌面端",
+    "url": "https://lmstudio.ai",
+    "tag": "开源本地"
+  },
+  {
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "Invideo AI · 文案自动成片",
+    "url": "https://invideo.io",
     "tag": "视频"
+  },
+  {
+    "title": "Luma Genie · 文本生成3D",
+    "url": "https://lumalabs.ai/genie",
+    "tag": "3D"
+  },
+  {
+    "title": "秘塔写作猫 · 中文写作辅助",
+    "url": "https://xiezuocat.com",
+    "tag": "写作"
   }
 ]
