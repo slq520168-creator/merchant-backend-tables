@@ -1,38 +1,28 @@
 [
   {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Upscayl · 开源图片放大",
-    "url": "https://upscayl.org",
-    "tag": "设计"
-  },
-  {
-    "title": "Krea · 实时绘图增强",
-    "url": "https://www.krea.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Whisper · 开源语音识别",
-    "url": "https://openai.com/research/whisper",
-    "tag": "语音"
-  },
-  {
-    "title": "Consensus · 论文结论搜索",
-    "url": "https://consensus.app",
-    "tag": "搜索"
-  },
-  {
-    "title": "LM Studio · 本地模型桌面端",
-    "url": "https://lmstudio.ai",
+    "title": "ComfyUI · 节点式绘图工作流",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
     "tag": "开源本地"
   },
   {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
+    "title": "Leonardo · 风格化生图",
+    "url": "https://leonardo.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "智谱清言 · GLM 中文对话",
+    "url": "https://chatglm.cn",
+    "tag": "对话"
+  },
+  {
+    "title": "Suno · 文本生成歌曲",
+    "url": "https://suno.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
+    "tag": "绘画"
   },
   {
     "title": "Invideo AI · 文案自动成片",
@@ -40,13 +30,23 @@
     "tag": "视频"
   },
   {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
+    "title": "豆包 · 字节免费助手",
+    "url": "https://www.doubao.com",
+    "tag": "对话"
   },
   {
-    "title": "秘塔写作猫 · 中文写作辅助",
-    "url": "https://xiezuocat.com",
-    "tag": "写作"
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "通义千问 · 阿里通义对话",
+    "url": "https://tongyi.aliyun.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Elicit · 文献研究助手",
+    "url": "https://elicit.com",
+    "tag": "搜索"
   }
 ]
