@@ -1,35 +1,5 @@
 [
   {
-    "title": "沉浸式翻译 · 网页双语对照",
-    "url": "https://immersivetranslate.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
-  },
-  {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Upscayl · 开源图片放大",
-    "url": "https://upscayl.org",
-    "tag": "设计"
-  },
-  {
-    "title": "Consensus · 论文结论搜索",
-    "url": "https://consensus.app",
-    "tag": "搜索"
-  },
-  {
-    "title": "可灵 · 快手视频生成",
-    "url": "https://klingai.com",
-    "tag": "视频"
-  },
-  {
     "title": "通义灵码 · 阿里编程助手",
     "url": "https://lingma.aliyun.com",
     "tag": "编程"
@@ -40,13 +10,43 @@
     "tag": "对话"
   },
   {
-    "title": "秘塔AI · 无广告中文AI搜索",
-    "url": "https://metaso.cn",
+    "title": "Poe · 多模型聚合对话",
+    "url": "https://poe.com",
+    "tag": "对话"
+  },
+  {
+    "title": "秘塔写作猫 · 中文写作辅助",
+    "url": "https://xiezuocat.com",
+    "tag": "写作"
+  },
+  {
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "Windsurf · Codeium AI IDE",
+    "url": "https://windsurf.com",
+    "tag": "编程"
+  },
+  {
+    "title": "Phind · 程序员AI搜索",
+    "url": "https://www.phind.com",
     "tag": "搜索"
   },
   {
-    "title": "钉钉 · 钉钉智能办公",
-    "url": "https://www.dingtalk.com",
-    "tag": "办公"
+    "title": "ChatGPT · OpenAI 综合对话写作",
+    "url": "https://chatgpt.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
+    "tag": "智能体"
   }
 ]
