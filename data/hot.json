@@ -1,52 +1,52 @@
 [
   {
-    "title": "通义灵码 · 阿里编程助手",
-    "url": "https://lingma.aliyun.com",
-    "tag": "编程"
-  },
-  {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
+    "title": "智谱清言 · GLM 中文对话",
+    "url": "https://chatglm.cn",
     "tag": "对话"
   },
   {
-    "title": "Poe · 多模型聚合对话",
-    "url": "https://poe.com",
-    "tag": "对话"
-  },
-  {
-    "title": "秘塔写作猫 · 中文写作辅助",
-    "url": "https://xiezuocat.com",
-    "tag": "写作"
-  },
-  {
-    "title": "Civitai · 开源模型市场",
-    "url": "https://civitai.com",
+    "title": "PixAI · 二次元绘画",
+    "url": "https://pixai.art",
     "tag": "绘画"
   },
   {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
+    "title": "Leonardo · 风格化生图",
+    "url": "https://leonardo.ai",
+    "tag": "绘画"
   },
   {
-    "title": "Windsurf · Codeium AI IDE",
-    "url": "https://windsurf.com",
-    "tag": "编程"
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
+    "tag": "绘画"
   },
   {
-    "title": "Phind · 程序员AI搜索",
-    "url": "https://www.phind.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "ChatGPT · OpenAI 综合对话写作",
-    "url": "https://chatgpt.com",
+    "title": "Kimi · 月之暗面 超长上下文",
+    "url": "https://kimi.moonshot.cn",
     "tag": "对话"
   },
   {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Riffusion · 免费生成音乐",
+    "url": "https://www.riffusion.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "n8n · 开源工作流自动化",
+    "url": "https://n8n.io",
     "tag": "智能体"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Ideogram · 文字渲染出色",
+    "url": "https://ideogram.ai",
+    "tag": "绘画"
   }
 ]
