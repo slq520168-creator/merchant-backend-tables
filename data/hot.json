@@ -1,43 +1,38 @@
 [
   {
-    "title": "智谱清言 · GLM 中文对话",
-    "url": "https://chatglm.cn",
+    "title": "Luma Genie · 文本生成3D",
+    "url": "https://lumalabs.ai/genie",
+    "tag": "3D"
+  },
+  {
+    "title": "腾讯元宝 · 腾讯混元助手",
+    "url": "https://yuanbao.tencent.com",
     "tag": "对话"
   },
   {
-    "title": "PixAI · 二次元绘画",
-    "url": "https://pixai.art",
-    "tag": "绘画"
+    "title": "Trae · 字节免费AI IDE",
+    "url": "https://www.trae.ai",
+    "tag": "编程"
   },
   {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Kimi · 月之暗面 超长上下文",
-    "url": "https://kimi.moonshot.cn",
-    "tag": "对话"
-  },
-  {
-    "title": "文心一格 · 百度国风绘画",
-    "url": "https://yige.baidu.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Riffusion · 免费生成音乐",
-    "url": "https://www.riffusion.com",
+    "title": "天工音乐 · 昆仑万维音乐",
+    "url": "https://music.tiangong.cn",
     "tag": "音乐"
   },
   {
-    "title": "n8n · 开源工作流自动化",
-    "url": "https://n8n.io",
-    "tag": "智能体"
+    "title": "Lovable · 自然语言做网站",
+    "url": "https://lovable.dev",
+    "tag": "编程"
+  },
+  {
+    "title": "文心快码 · 百度编程助手",
+    "url": "https://comate.baidu.com",
+    "tag": "编程"
+  },
+  {
+    "title": "Meshy · 文生3D模型",
+    "url": "https://www.meshy.ai",
+    "tag": "3D"
   },
   {
     "title": "Hugging Face · 开源模型社区",
@@ -45,8 +40,13 @@
     "tag": "开源本地"
   },
   {
-    "title": "Ideogram · 文字渲染出色",
-    "url": "https://ideogram.ai",
-    "tag": "绘画"
+    "title": "Poe · 多模型聚合对话",
+    "url": "https://poe.com",
+    "tag": "对话"
+  },
+  {
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
   }
 ]
