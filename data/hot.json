@@ -1,52 +1,52 @@
 [
   {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
+    "title": "Phind · 程序员AI搜索",
+    "url": "https://www.phind.com",
+    "tag": "搜索"
   },
   {
-    "title": "腾讯元宝 · 腾讯混元助手",
-    "url": "https://yuanbao.tencent.com",
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
+  },
+  {
+    "title": "扣子 Coze · 字节智能体搭建",
+    "url": "https://www.coze.cn",
+    "tag": "智能体"
+  },
+  {
+    "title": "Meta AI · Meta 免费助手",
+    "url": "https://www.meta.ai",
     "tag": "对话"
   },
   {
-    "title": "Trae · 字节免费AI IDE",
-    "url": "https://www.trae.ai",
+    "title": "Perplexity · 带引用的AI搜索",
+    "url": "https://www.perplexity.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
+    "tag": "智能体"
+  },
+  {
+    "title": "Genspark · AI 超级搜索代理",
+    "url": "https://www.genspark.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "即梦 · 字节文生图/视频",
+    "url": "https://jimeng.jianying.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Cline · 开源VSCode智能体",
+    "url": "https://github.com/cline/cline",
     "tag": "编程"
   },
   {
-    "title": "天工音乐 · 昆仑万维音乐",
-    "url": "https://music.tiangong.cn",
-    "tag": "音乐"
-  },
-  {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "文心快码 · 百度编程助手",
-    "url": "https://comate.baidu.com",
-    "tag": "编程"
-  },
-  {
-    "title": "Meshy · 文生3D模型",
-    "url": "https://www.meshy.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
-  },
-  {
-    "title": "Poe · 多模型聚合对话",
-    "url": "https://poe.com",
+    "title": "智谱清言 · GLM 中文对话",
+    "url": "https://chatglm.cn",
     "tag": "对话"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
   }
 ]
