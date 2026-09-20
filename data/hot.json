@@ -1,42 +1,12 @@
 [
   {
-    "title": "Phind · 程序员AI搜索",
-    "url": "https://www.phind.com",
-    "tag": "搜索"
+    "title": "Liblib · 哩布哩布模型社区",
+    "url": "https://www.liblib.art",
+    "tag": "绘画"
   },
   {
-    "title": "Aider · 终端结对编程",
-    "url": "https://aider.chat",
-    "tag": "编程"
-  },
-  {
-    "title": "扣子 Coze · 字节智能体搭建",
-    "url": "https://www.coze.cn",
-    "tag": "智能体"
-  },
-  {
-    "title": "Meta AI · Meta 免费助手",
-    "url": "https://www.meta.ai",
-    "tag": "对话"
-  },
-  {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
-  },
-  {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
-    "tag": "智能体"
-  },
-  {
-    "title": "Genspark · AI 超级搜索代理",
-    "url": "https://www.genspark.ai",
-    "tag": "搜索"
-  },
-  {
-    "title": "即梦 · 字节文生图/视频",
-    "url": "https://jimeng.jianying.com",
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
     "tag": "绘画"
   },
   {
@@ -45,8 +15,38 @@
     "tag": "编程"
   },
   {
-    "title": "智谱清言 · GLM 中文对话",
-    "url": "https://chatglm.cn",
+    "title": "Zapier · 应用自动化连接",
+    "url": "https://zapier.com",
+    "tag": "智能体"
+  },
+  {
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
     "tag": "对话"
+  },
+  {
+    "title": "Open WebUI · 本地Chat界面",
+    "url": "https://openwebui.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Bolt.new · 对话生成全栈应用",
+    "url": "https://bolt.new",
+    "tag": "编程"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Tripo · 图像转3D",
+    "url": "https://www.tripo3d.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
   }
 ]
