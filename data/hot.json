@@ -1,33 +1,8 @@
 [
   {
-    "title": "Liblib · 哩布哩布模型社区",
-    "url": "https://www.liblib.art",
-    "tag": "绘画"
-  },
-  {
-    "title": "Krea · 实时绘图增强",
-    "url": "https://www.krea.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Cline · 开源VSCode智能体",
-    "url": "https://github.com/cline/cline",
-    "tag": "编程"
-  },
-  {
-    "title": "Zapier · 应用自动化连接",
-    "url": "https://zapier.com",
-    "tag": "智能体"
-  },
-  {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
-    "tag": "对话"
-  },
-  {
-    "title": "Open WebUI · 本地Chat界面",
-    "url": "https://openwebui.com",
-    "tag": "开源本地"
+    "title": "DeepL · 高质量翻译",
+    "url": "https://www.deepl.com",
+    "tag": "翻译"
   },
   {
     "title": "Bolt.new · 对话生成全栈应用",
@@ -35,18 +10,43 @@
     "tag": "编程"
   },
   {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
   },
   {
-    "title": "Tripo · 图像转3D",
-    "url": "https://www.tripo3d.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
+    "title": "Pika · 短视频生成",
+    "url": "https://pika.art",
     "tag": "视频"
+  },
+  {
+    "title": "Riffusion · 免费生成音乐",
+    "url": "https://www.riffusion.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "Lovable · 自然语言做网站",
+    "url": "https://lovable.dev",
+    "tag": "编程"
+  },
+  {
+    "title": "Cursor · AI 原生编辑器",
+    "url": "https://cursor.com",
+    "tag": "编程"
+  },
+  {
+    "title": "创客贴 · 海报模板设计",
+    "url": "https://www.chuangkit.com",
+    "tag": "设计"
+  },
+  {
+    "title": "Elicit · 文献研究助手",
+    "url": "https://elicit.com",
+    "tag": "搜索"
+  },
+  {
+    "title": "智谱清言 · GLM 中文对话",
+    "url": "https://chatglm.cn",
+    "tag": "对话"
   }
 ]
