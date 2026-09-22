@@ -1,52 +1,52 @@
 [
   {
-    "title": "DeepL · 高质量翻译",
-    "url": "https://www.deepl.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "Bolt.new · 对话生成全栈应用",
-    "url": "https://bolt.new",
-    "tag": "编程"
-  },
-  {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "Pika · 短视频生成",
-    "url": "https://pika.art",
-    "tag": "视频"
-  },
-  {
-    "title": "Riffusion · 免费生成音乐",
-    "url": "https://www.riffusion.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "Cursor · AI 原生编辑器",
-    "url": "https://cursor.com",
-    "tag": "编程"
-  },
-  {
-    "title": "创客贴 · 海报模板设计",
-    "url": "https://www.chuangkit.com",
-    "tag": "设计"
-  },
-  {
-    "title": "Elicit · 文献研究助手",
-    "url": "https://elicit.com",
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
     "tag": "搜索"
   },
   {
-    "title": "智谱清言 · GLM 中文对话",
-    "url": "https://chatglm.cn",
+    "title": "n8n · 开源工作流自动化",
+    "url": "https://n8n.io",
+    "tag": "智能体"
+  },
+  {
+    "title": "Gemini · 谷歌多模态助手",
+    "url": "https://gemini.google.com",
     "tag": "对话"
+  },
+  {
+    "title": "Perplexity · 带引用的AI搜索",
+    "url": "https://www.perplexity.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "Tripo · 图像转3D",
+    "url": "https://www.tripo3d.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "LMArena · 多模型对战评测",
+    "url": "https://lmarena.ai",
+    "tag": "对话"
+  },
+  {
+    "title": "稿定设计 · 中文在线设计",
+    "url": "https://www.gaoding.com",
+    "tag": "设计"
+  },
+  {
+    "title": "腾讯元宝 · 腾讯混元助手",
+    "url": "https://yuanbao.tencent.com",
+    "tag": "对话"
+  },
+  {
+    "title": "PixAI · 二次元绘画",
+    "url": "https://pixai.art",
+    "tag": "绘画"
+  },
+  {
+    "title": "FastGPT · 知识库问答搭建",
+    "url": "https://fastgpt.in",
+    "tag": "智能体"
   }
 ]
