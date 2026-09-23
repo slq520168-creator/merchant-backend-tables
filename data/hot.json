@@ -1,23 +1,8 @@
 [
   {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "n8n · 开源工作流自动化",
-    "url": "https://n8n.io",
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
     "tag": "智能体"
-  },
-  {
-    "title": "Gemini · 谷歌多模态助手",
-    "url": "https://gemini.google.com",
-    "tag": "对话"
-  },
-  {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
   },
   {
     "title": "Tripo · 图像转3D",
@@ -25,28 +10,43 @@
     "tag": "3D"
   },
   {
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
+    "tag": "设计"
+  },
+  {
+    "title": "Consensus · 论文结论搜索",
+    "url": "https://consensus.app",
+    "tag": "搜索"
+  },
+  {
     "title": "LMArena · 多模型对战评测",
     "url": "https://lmarena.ai",
     "tag": "对话"
   },
   {
-    "title": "稿定设计 · 中文在线设计",
-    "url": "https://www.gaoding.com",
+    "title": "剪映国内版 · 国内短视频剪辑",
+    "url": "https://www.capcut.cn",
+    "tag": "视频"
+  },
+  {
+    "title": "创客贴 · 海报模板设计",
+    "url": "https://www.chuangkit.com",
     "tag": "设计"
   },
   {
-    "title": "腾讯元宝 · 腾讯混元助手",
-    "url": "https://yuanbao.tencent.com",
+    "title": "HeyGen · 数字人口播",
+    "url": "https://www.heygen.com",
+    "tag": "视频"
+  },
+  {
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
+    "tag": "搜索"
+  },
+  {
+    "title": "Mistral · 欧洲开源对话",
+    "url": "https://chat.mistral.ai",
     "tag": "对话"
-  },
-  {
-    "title": "PixAI · 二次元绘画",
-    "url": "https://pixai.art",
-    "tag": "绘画"
-  },
-  {
-    "title": "FastGPT · 知识库问答搭建",
-    "url": "https://fastgpt.in",
-    "tag": "智能体"
   }
 ]
