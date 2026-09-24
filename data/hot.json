@@ -1,52 +1,52 @@
 [
   {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
-    "tag": "智能体"
-  },
-  {
     "title": "Tripo · 图像转3D",
     "url": "https://www.tripo3d.ai",
     "tag": "3D"
   },
   {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
-    "tag": "设计"
-  },
-  {
-    "title": "Consensus · 论文结论搜索",
-    "url": "https://consensus.app",
+    "title": "Genspark · AI 超级搜索代理",
+    "url": "https://www.genspark.ai",
     "tag": "搜索"
   },
   {
-    "title": "LMArena · 多模型对战评测",
-    "url": "https://lmarena.ai",
+    "title": "飞书 · 飞书办公协作",
+    "url": "https://www.feishu.cn",
+    "tag": "办公"
+  },
+  {
+    "title": "DeepSeek · 深度求索 免费推理",
+    "url": "https://chat.deepseek.com",
     "tag": "对话"
   },
   {
-    "title": "剪映国内版 · 国内短视频剪辑",
-    "url": "https://www.capcut.cn",
+    "title": "Luma · Dream Machine",
+    "url": "https://lumalabs.ai",
     "tag": "视频"
   },
   {
-    "title": "创客贴 · 海报模板设计",
-    "url": "https://www.chuangkit.com",
-    "tag": "设计"
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
   },
   {
-    "title": "HeyGen · 数字人口播",
-    "url": "https://www.heygen.com",
-    "tag": "视频"
+    "title": "Grammarly · 英文润色校对",
+    "url": "https://www.grammarly.com",
+    "tag": "写作"
   },
   {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
-    "tag": "搜索"
+    "title": "通义听悟 · 会议录音转写",
+    "url": "https://tingwu.aliyun.com",
+    "tag": "语音"
   },
   {
-    "title": "Mistral · 欧洲开源对话",
-    "url": "https://chat.mistral.ai",
-    "tag": "对话"
+    "title": "Meshy · 文生3D模型",
+    "url": "https://www.meshy.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "Replit · 浏览器写代码部署",
+    "url": "https://replit.com",
+    "tag": "编程"
   }
 ]
