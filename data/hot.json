@@ -1,52 +1,52 @@
 [
   {
-    "title": "Tripo · 图像转3D",
-    "url": "https://www.tripo3d.ai",
-    "tag": "3D"
-  },
-  {
     "title": "Genspark · AI 超级搜索代理",
     "url": "https://www.genspark.ai",
     "tag": "搜索"
   },
   {
-    "title": "飞书 · 飞书办公协作",
-    "url": "https://www.feishu.cn",
-    "tag": "办公"
+    "title": "v0 · Vercel 生成前端",
+    "url": "https://v0.dev",
+    "tag": "编程"
   },
   {
-    "title": "DeepSeek · 深度求索 免费推理",
-    "url": "https://chat.deepseek.com",
-    "tag": "对话"
+    "title": "Continue · 开源IDE插件",
+    "url": "https://www.continue.dev",
+    "tag": "编程"
   },
   {
-    "title": "Luma · Dream Machine",
-    "url": "https://lumalabs.ai",
+    "title": "Canva · 在线设计含AI",
+    "url": "https://www.canva.com",
+    "tag": "设计"
+  },
+  {
+    "title": "即梦视频 · 字节视频生成",
+    "url": "https://jimeng.jianying.com",
     "tag": "视频"
   },
   {
-    "title": "WPS AI · 文档表格PPT助手",
-    "url": "https://ai.wps.cn",
-    "tag": "办公"
+    "title": "Playground · 免费画布生图",
+    "url": "https://playground.com",
+    "tag": "绘画"
   },
   {
-    "title": "Grammarly · 英文润色校对",
-    "url": "https://www.grammarly.com",
-    "tag": "写作"
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
+    "tag": "绘画"
   },
   {
-    "title": "通义听悟 · 会议录音转写",
-    "url": "https://tingwu.aliyun.com",
-    "tag": "语音"
-  },
-  {
-    "title": "Meshy · 文生3D模型",
-    "url": "https://www.meshy.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
+    "title": "Trae · 字节免费AI IDE",
+    "url": "https://www.trae.ai",
     "tag": "编程"
+  },
+  {
+    "title": "腾讯元宝 · 腾讯混元助手",
+    "url": "https://yuanbao.tencent.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Claude · Anthropic 长文与推理",
+    "url": "https://claude.ai",
+    "tag": "对话"
   }
 ]
