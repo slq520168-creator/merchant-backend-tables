@@ -1,8 +1,18 @@
 [
   {
-    "title": "Genspark · AI 超级搜索代理",
-    "url": "https://www.genspark.ai",
+    "title": "Felo · 多语言AI搜索",
+    "url": "https://felo.ai",
     "tag": "搜索"
+  },
+  {
+    "title": "文心一言 · 百度文心对话",
+    "url": "https://yiyan.baidu.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Invideo AI · 文案自动成片",
+    "url": "https://invideo.io",
+    "tag": "视频"
   },
   {
     "title": "v0 · Vercel 生成前端",
@@ -10,24 +20,24 @@
     "tag": "编程"
   },
   {
-    "title": "Continue · 开源IDE插件",
-    "url": "https://www.continue.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "Canva · 在线设计含AI",
-    "url": "https://www.canva.com",
-    "tag": "设计"
-  },
-  {
-    "title": "即梦视频 · 字节视频生成",
-    "url": "https://jimeng.jianying.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
     "tag": "绘画"
+  },
+  {
+    "title": "Open WebUI · 本地Chat界面",
+    "url": "https://openwebui.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
+  },
+  {
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
   },
   {
     "title": "SeaArt · 海艺免费绘画",
@@ -35,18 +45,8 @@
     "tag": "绘画"
   },
   {
-    "title": "Trae · 字节免费AI IDE",
-    "url": "https://www.trae.ai",
-    "tag": "编程"
-  },
-  {
     "title": "腾讯元宝 · 腾讯混元助手",
     "url": "https://yuanbao.tencent.com",
-    "tag": "对话"
-  },
-  {
-    "title": "Claude · Anthropic 长文与推理",
-    "url": "https://claude.ai",
     "tag": "对话"
   }
 ]
