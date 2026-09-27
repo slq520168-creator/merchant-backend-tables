@@ -1,52 +1,52 @@
 [
   {
-    "title": "Felo · 多语言AI搜索",
-    "url": "https://felo.ai",
+    "title": "即梦 · 字节文生图/视频",
+    "url": "https://jimeng.jianying.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "You.com · AI 搜索引擎",
+    "url": "https://you.com",
     "tag": "搜索"
   },
   {
-    "title": "文心一言 · 百度文心对话",
-    "url": "https://yiyan.baidu.com",
-    "tag": "对话"
-  },
-  {
-    "title": "Invideo AI · 文案自动成片",
-    "url": "https://invideo.io",
+    "title": "即梦视频 · 字节视频生成",
+    "url": "https://jimeng.jianying.com",
     "tag": "视频"
   },
   {
-    "title": "v0 · Vercel 生成前端",
-    "url": "https://v0.dev",
+    "title": "Lovable · 自然语言做网站",
+    "url": "https://lovable.dev",
     "tag": "编程"
   },
   {
-    "title": "Krea · 实时绘图增强",
-    "url": "https://www.krea.ai",
-    "tag": "绘画"
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
+    "tag": "设计"
   },
   {
-    "title": "Open WebUI · 本地Chat界面",
-    "url": "https://openwebui.com",
-    "tag": "开源本地"
+    "title": "沉浸式翻译 · 网页双语对照",
+    "url": "https://immersivetranslate.com",
+    "tag": "翻译"
   },
   {
-    "title": "WPS AI · 文档表格PPT助手",
-    "url": "https://ai.wps.cn",
+    "title": "腾讯智影 · 腾讯数字人视频",
+    "url": "https://zenvideo.qq.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Udio · AI作曲演唱",
+    "url": "https://www.udio.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "Cursor · AI 原生编辑器",
+    "url": "https://cursor.com",
+    "tag": "编程"
+  },
+  {
+    "title": "飞书 · 飞书办公协作",
+    "url": "https://www.feishu.cn",
     "tag": "办公"
-  },
-  {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
-    "tag": "语音"
-  },
-  {
-    "title": "SeaArt · 海艺免费绘画",
-    "url": "https://www.seaart.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "腾讯元宝 · 腾讯混元助手",
-    "url": "https://yuanbao.tencent.com",
-    "tag": "对话"
   }
 ]
