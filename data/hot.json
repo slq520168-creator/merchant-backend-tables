@@ -1,52 +1,52 @@
 [
   {
-    "title": "即梦 · 字节文生图/视频",
-    "url": "https://jimeng.jianying.com",
-    "tag": "绘画"
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
   },
   {
-    "title": "You.com · AI 搜索引擎",
-    "url": "https://you.com",
-    "tag": "搜索"
+    "title": "扣子 Coze · 字节智能体搭建",
+    "url": "https://www.coze.cn",
+    "tag": "智能体"
   },
   {
-    "title": "即梦视频 · 字节视频生成",
-    "url": "https://jimeng.jianying.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
+    "title": "Looka · AI做Logo",
+    "url": "https://looka.com",
     "tag": "设计"
   },
   {
-    "title": "沉浸式翻译 · 网页双语对照",
-    "url": "https://immersivetranslate.com",
-    "tag": "翻译"
+    "title": "通义千问 · 阿里通义对话",
+    "url": "https://tongyi.aliyun.com",
+    "tag": "对话"
   },
   {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
+    "title": "Poe · 多模型聚合对话",
+    "url": "https://poe.com",
+    "tag": "对话"
   },
   {
-    "title": "Udio · AI作曲演唱",
-    "url": "https://www.udio.com",
-    "tag": "音乐"
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
   },
   {
-    "title": "Cursor · AI 原生编辑器",
-    "url": "https://cursor.com",
-    "tag": "编程"
+    "title": "秘塔写作猫 · 中文写作辅助",
+    "url": "https://xiezuocat.com",
+    "tag": "写作"
   },
   {
-    "title": "飞书 · 飞书办公协作",
-    "url": "https://www.feishu.cn",
+    "title": "Perplexity · 带引用的AI搜索",
+    "url": "https://www.perplexity.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
     "tag": "办公"
+  },
+  {
+    "title": "GPTs · ChatGPT 自定义GPT",
+    "url": "https://chatgpt.com/gpts",
+    "tag": "智能体"
   }
 ]
