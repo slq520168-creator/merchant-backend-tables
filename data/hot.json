@@ -1,52 +1,52 @@
 [
   {
-    "title": "D-ID · 照片说话视频",
-    "url": "https://www.d-id.com",
+    "title": "可灵 · 快手视频生成",
+    "url": "https://klingai.com",
     "tag": "视频"
   },
   {
-    "title": "Riffusion · 免费生成音乐",
-    "url": "https://www.riffusion.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
-  },
-  {
-    "title": "ComfyUI · 节点式绘图工作流",
-    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "title": "LM Studio · 本地模型桌面端",
+    "url": "https://lmstudio.ai",
     "tag": "开源本地"
   },
   {
-    "title": "DeepL · 高质量翻译",
-    "url": "https://www.deepl.com",
+    "title": "Jenni · 论文写作助手",
+    "url": "https://jenni.ai",
+    "tag": "写作"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
+  },
+  {
+    "title": "剪映国内版 · 国内短视频剪辑",
+    "url": "https://www.capcut.cn",
+    "tag": "视频"
+  },
+  {
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
+    "tag": "智能体"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
+  },
+  {
+    "title": "沉浸式翻译 · 网页双语对照",
+    "url": "https://immersivetranslate.com",
     "tag": "翻译"
   },
   {
-    "title": "Meshy · 文生3D模型",
-    "url": "https://www.meshy.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "ElevenLabs · 高真实感语音克隆",
-    "url": "https://elevenlabs.io",
-    "tag": "语音"
-  },
-  {
-    "title": "Phind · 程序员AI搜索",
-    "url": "https://www.phind.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
     "tag": "绘画"
-  },
-  {
-    "title": "Gamma · 一键生成PPT",
-    "url": "https://gamma.app",
-    "tag": "办公"
   }
 ]
