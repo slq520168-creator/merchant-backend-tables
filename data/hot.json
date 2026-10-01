@@ -1,52 +1,52 @@
 [
   {
-    "title": "可灵 · 快手视频生成",
-    "url": "https://klingai.com",
-    "tag": "视频"
+    "title": "Grok · xAI 实时联网",
+    "url": "https://grok.com",
+    "tag": "对话"
   },
   {
-    "title": "LM Studio · 本地模型桌面端",
-    "url": "https://lmstudio.ai",
-    "tag": "开源本地"
-  },
-  {
-    "title": "Jenni · 论文写作助手",
-    "url": "https://jenni.ai",
-    "tag": "写作"
-  },
-  {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
-  },
-  {
-    "title": "剪映国内版 · 国内短视频剪辑",
-    "url": "https://www.capcut.cn",
-    "tag": "视频"
-  },
-  {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
+    "title": "n8n · 开源工作流自动化",
+    "url": "https://n8n.io",
     "tag": "智能体"
   },
   {
-    "title": "WPS AI · 文档表格PPT助手",
-    "url": "https://ai.wps.cn",
+    "title": "ChatGPT · OpenAI 综合对话写作",
+    "url": "https://chatgpt.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Notion AI · 笔记知识库",
+    "url": "https://www.notion.so/product/ai",
     "tag": "办公"
   },
   {
-    "title": "沉浸式翻译 · 网页双语对照",
-    "url": "https://immersivetranslate.com",
-    "tag": "翻译"
+    "title": "Continue · 开源IDE插件",
+    "url": "https://www.continue.dev",
+    "tag": "编程"
   },
   {
-    "title": "Civitai · 开源模型市场",
-    "url": "https://civitai.com",
+    "title": "Looka · AI做Logo",
+    "url": "https://looka.com",
+    "tag": "设计"
+  },
+  {
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
     "tag": "绘画"
+  },
+  {
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
+  },
+  {
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
+    "tag": "对话"
+  },
+  {
+    "title": "Cursor · AI 原生编辑器",
+    "url": "https://cursor.com",
+    "tag": "编程"
   }
 ]
