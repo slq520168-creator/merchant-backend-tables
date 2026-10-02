@@ -1,13 +1,13 @@
 [
   {
-    "title": "Grok · xAI 实时联网",
-    "url": "https://grok.com",
-    "tag": "对话"
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
+    "tag": "绘画"
   },
   {
-    "title": "n8n · 开源工作流自动化",
-    "url": "https://n8n.io",
-    "tag": "智能体"
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
+    "tag": "绘画"
   },
   {
     "title": "ChatGPT · OpenAI 综合对话写作",
@@ -15,19 +15,14 @@
     "tag": "对话"
   },
   {
-    "title": "Notion AI · 笔记知识库",
-    "url": "https://www.notion.so/product/ai",
+    "title": "Phind · 程序员AI搜索",
+    "url": "https://www.phind.com",
+    "tag": "搜索"
+  },
+  {
+    "title": "Gamma · 一键生成PPT",
+    "url": "https://gamma.app",
     "tag": "办公"
-  },
-  {
-    "title": "Continue · 开源IDE插件",
-    "url": "https://www.continue.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "Looka · AI做Logo",
-    "url": "https://looka.com",
-    "tag": "设计"
   },
   {
     "title": "Krea · 实时绘图增强",
@@ -35,18 +30,23 @@
     "tag": "绘画"
   },
   {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
-    "tag": "语音"
-  },
-  {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
+    "title": "Claude · Anthropic 长文与推理",
+    "url": "https://claude.ai",
     "tag": "对话"
   },
   {
-    "title": "Cursor · AI 原生编辑器",
-    "url": "https://cursor.com",
-    "tag": "编程"
+    "title": "Luma · Dream Machine",
+    "url": "https://lumalabs.ai",
+    "tag": "视频"
+  },
+  {
+    "title": "Gemini · 谷歌多模态助手",
+    "url": "https://gemini.google.com",
+    "tag": "对话"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
   }
 ]
