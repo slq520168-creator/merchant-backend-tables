@@ -1,28 +1,23 @@
 [
   {
-    "title": "智谱清言 · GLM 中文对话",
-    "url": "https://chatglm.cn",
+    "title": "Meta AI · Meta 免费助手",
+    "url": "https://www.meta.ai",
     "tag": "对话"
   },
   {
-    "title": "文心一言 · 百度文心对话",
-    "url": "https://yiyan.baidu.com",
-    "tag": "对话"
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
   },
   {
-    "title": "秘塔写作猫 · 中文写作辅助",
-    "url": "https://xiezuocat.com",
-    "tag": "写作"
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
   },
   {
-    "title": "Trae · 字节免费AI IDE",
-    "url": "https://www.trae.ai",
-    "tag": "编程"
-  },
-  {
-    "title": "Suno · 文本生成歌曲",
-    "url": "https://suno.com",
-    "tag": "音乐"
+    "title": "Genspark · AI 超级搜索代理",
+    "url": "https://www.genspark.ai",
+    "tag": "搜索"
   },
   {
     "title": "即梦 · 字节文生图/视频",
@@ -30,23 +25,28 @@
     "tag": "绘画"
   },
   {
-    "title": "Google翻译 · 免费多语翻译",
-    "url": "https://translate.google.com",
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
     "tag": "翻译"
   },
   {
-    "title": "GPTs · ChatGPT 自定义GPT",
-    "url": "https://chatgpt.com/gpts",
+    "title": "可灵 · 快手视频生成",
+    "url": "https://klingai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "通义灵码 · 阿里编程助手",
+    "url": "https://lingma.aliyun.com",
+    "tag": "编程"
+  },
+  {
+    "title": "FastGPT · 知识库问答搭建",
+    "url": "https://fastgpt.in",
     "tag": "智能体"
   },
   {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
-    "tag": "编程"
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
+    "tag": "设计"
   }
 ]
