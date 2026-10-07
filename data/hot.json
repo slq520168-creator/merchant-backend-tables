@@ -1,52 +1,52 @@
 [
   {
-    "title": "v0 · Vercel 生成前端",
-    "url": "https://v0.dev",
-    "tag": "编程"
+    "title": "海绵音乐 · 网易AI音乐",
+    "url": "https://www.haimian.com",
+    "tag": "音乐"
   },
   {
-    "title": "Adobe Firefly · 商用安全生图",
-    "url": "https://firefly.adobe.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
-  },
-  {
-    "title": "LM Studio · 本地模型桌面端",
-    "url": "https://lmstudio.ai",
-    "tag": "开源本地"
-  },
-  {
-    "title": "Runway · 专业视频生成剪辑",
-    "url": "https://runwayml.com",
-    "tag": "视频"
-  },
-  {
-    "title": "海螺视频 · MiniMax 视频",
-    "url": "https://hailuoai.com",
-    "tag": "视频"
-  },
-  {
-    "title": "通义灵码 · 阿里编程助手",
-    "url": "https://lingma.aliyun.com",
-    "tag": "编程"
-  },
-  {
-    "title": "即梦视频 · 字节视频生成",
-    "url": "https://jimeng.jianying.com",
-    "tag": "视频"
-  },
-  {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
+    "title": "HuggingChat · 开源模型在线聊",
+    "url": "https://huggingface.co/chat",
     "tag": "对话"
   },
   {
-    "title": "Upscayl · 开源图片放大",
-    "url": "https://upscayl.org",
-    "tag": "设计"
+    "title": "Notion AI · 笔记知识库",
+    "url": "https://www.notion.so/product/ai",
+    "tag": "办公"
+  },
+  {
+    "title": "Trae · 字节免费AI IDE",
+    "url": "https://www.trae.ai",
+    "tag": "编程"
+  },
+  {
+    "title": "吐司AI · 在线SD绘画社区",
+    "url": "https://tusi.cn",
+    "tag": "绘画"
+  },
+  {
+    "title": "Bolt.new · 对话生成全栈应用",
+    "url": "https://bolt.new",
+    "tag": "编程"
+  },
+  {
+    "title": "QuillBot · 英文改写",
+    "url": "https://quillbot.com",
+    "tag": "写作"
+  },
+  {
+    "title": "Zapier · 应用自动化连接",
+    "url": "https://zapier.com",
+    "tag": "智能体"
+  },
+  {
+    "title": "Meta AI · Meta 免费助手",
+    "url": "https://www.meta.ai",
+    "tag": "对话"
+  },
+  {
+    "title": "Ideogram · 文字渲染出色",
+    "url": "https://ideogram.ai",
+    "tag": "绘画"
   }
 ]
