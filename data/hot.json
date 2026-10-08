@@ -1,52 +1,52 @@
 [
   {
+    "title": "Consensus · 论文结论搜索",
+    "url": "https://consensus.app",
+    "tag": "搜索"
+  },
+  {
+    "title": "通义千问 · 阿里通义对话",
+    "url": "https://tongyi.aliyun.com",
+    "tag": "对话"
+  },
+  {
+    "title": "PixAI · 二次元绘画",
+    "url": "https://pixai.art",
+    "tag": "绘画"
+  },
+  {
+    "title": "海螺视频 · MiniMax 视频",
+    "url": "https://hailuoai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "通义听悟 · 会议录音转写",
+    "url": "https://tingwu.aliyun.com",
+    "tag": "语音"
+  },
+  {
     "title": "海绵音乐 · 网易AI音乐",
     "url": "https://www.haimian.com",
     "tag": "音乐"
   },
   {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
-    "tag": "对话"
+    "title": "HeyGen · 数字人口播",
+    "url": "https://www.heygen.com",
+    "tag": "视频"
   },
   {
-    "title": "Notion AI · 笔记知识库",
-    "url": "https://www.notion.so/product/ai",
-    "tag": "办公"
-  },
-  {
-    "title": "Trae · 字节免费AI IDE",
-    "url": "https://www.trae.ai",
+    "title": "Continue · 开源IDE插件",
+    "url": "https://www.continue.dev",
     "tag": "编程"
-  },
-  {
-    "title": "吐司AI · 在线SD绘画社区",
-    "url": "https://tusi.cn",
-    "tag": "绘画"
-  },
-  {
-    "title": "Bolt.new · 对话生成全栈应用",
-    "url": "https://bolt.new",
-    "tag": "编程"
-  },
-  {
-    "title": "QuillBot · 英文改写",
-    "url": "https://quillbot.com",
-    "tag": "写作"
-  },
-  {
-    "title": "Zapier · 应用自动化连接",
-    "url": "https://zapier.com",
-    "tag": "智能体"
   },
   {
     "title": "Meta AI · Meta 免费助手",
     "url": "https://www.meta.ai",
     "tag": "对话"
-  },
-  {
-    "title": "Ideogram · 文字渲染出色",
-    "url": "https://ideogram.ai",
-    "tag": "绘画"
   }
 ]
