@@ -1,52 +1,52 @@
 [
   {
-    "title": "LMArena · 多模型对战评测",
-    "url": "https://lmarena.ai",
-    "tag": "对话"
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
+    "tag": "绘画"
   },
   {
-    "title": "Invideo AI · 文案自动成片",
-    "url": "https://invideo.io",
+    "title": "通义听悟 · 会议录音转写",
+    "url": "https://tingwu.aliyun.com",
+    "tag": "语音"
+  },
+  {
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "Playground · 免费画布生图",
+    "url": "https://playground.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
+  },
+  {
+    "title": "QuillBot · 英文改写",
+    "url": "https://quillbot.com",
+    "tag": "写作"
+  },
+  {
+    "title": "Vidu · 生数视频生成",
+    "url": "https://www.vidu.com",
     "tag": "视频"
   },
   {
-    "title": "Mistral · 欧洲开源对话",
-    "url": "https://chat.mistral.ai",
-    "tag": "对话"
+    "title": "Open WebUI · 本地Chat界面",
+    "url": "https://openwebui.com",
+    "tag": "开源本地"
   },
   {
-    "title": "Krea · 实时绘图增强",
-    "url": "https://www.krea.ai",
-    "tag": "绘画"
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
+    "tag": "搜索"
   },
   {
-    "title": "Recraft · 矢量与品牌图",
-    "url": "https://www.recraft.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Civitai · 开源模型市场",
-    "url": "https://civitai.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Synthesia · 企业数字人",
-    "url": "https://www.synthesia.io",
-    "tag": "视频"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
-  },
-  {
-    "title": "吐司AI · 在线SD绘画社区",
-    "url": "https://tusi.cn",
-    "tag": "绘画"
-  },
-  {
-    "title": "Adobe Firefly · 商用安全生图",
-    "url": "https://firefly.adobe.com",
-    "tag": "绘画"
+    "title": "ChatDOC · 文档问答",
+    "url": "https://chatdoc.com",
+    "tag": "办公"
   }
 ]
