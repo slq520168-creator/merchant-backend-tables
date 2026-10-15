@@ -1,18 +1,38 @@
 [
   {
-    "title": "ComfyUI · 节点式绘图工作流",
-    "url": "https://github.com/comfyanonymous/ComfyUI",
-    "tag": "开源本地"
+    "title": "智谱清言 · GLM 中文对话",
+    "url": "https://chatglm.cn",
+    "tag": "对话"
   },
   {
-    "title": "Liblib · 哩布哩布模型社区",
-    "url": "https://www.liblib.art",
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
+    "tag": "语音"
+  },
+  {
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
     "tag": "绘画"
   },
   {
-    "title": "SeaArt · 海艺免费绘画",
-    "url": "https://www.seaart.ai",
+    "title": "DeepSeek · 深度求索 免费推理",
+    "url": "https://chat.deepseek.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Google翻译 · 免费多语翻译",
+    "url": "https://translate.google.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
     "tag": "绘画"
+  },
+  {
+    "title": "Looka · AI做Logo",
+    "url": "https://looka.com",
+    "tag": "设计"
   },
   {
     "title": "通义听悟 · 会议录音转写",
@@ -20,33 +40,13 @@
     "tag": "语音"
   },
   {
-    "title": "Continue · 开源IDE插件",
-    "url": "https://www.continue.dev",
+    "title": "剪映国内版 · 国内短视频剪辑",
+    "url": "https://www.capcut.cn",
+    "tag": "视频"
+  },
+  {
+    "title": "Windsurf · Codeium AI IDE",
+    "url": "https://windsurf.com",
     "tag": "编程"
-  },
-  {
-    "title": "可灵 · 快手视频生成",
-    "url": "https://klingai.com",
-    "tag": "视频"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Vidu · 生数视频生成",
-    "url": "https://www.vidu.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Canva · 在线设计含AI",
-    "url": "https://www.canva.com",
-    "tag": "设计"
-  },
-  {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
-    "tag": "绘画"
   }
 ]
