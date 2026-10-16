@@ -1,32 +1,12 @@
 [
   {
-    "title": "智谱清言 · GLM 中文对话",
-    "url": "https://chatglm.cn",
-    "tag": "对话"
-  },
-  {
-    "title": "Whisper · 开源语音识别",
-    "url": "https://openai.com/research/whisper",
-    "tag": "语音"
-  },
-  {
-    "title": "文心一格 · 百度国风绘画",
-    "url": "https://yige.baidu.com",
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
     "tag": "绘画"
   },
   {
-    "title": "DeepSeek · 深度求索 免费推理",
-    "url": "https://chat.deepseek.com",
-    "tag": "对话"
-  },
-  {
-    "title": "Google翻译 · 免费多语翻译",
-    "url": "https://translate.google.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
     "tag": "绘画"
   },
   {
@@ -35,18 +15,38 @@
     "tag": "设计"
   },
   {
-    "title": "通义听悟 · 会议录音转写",
-    "url": "https://tingwu.aliyun.com",
+    "title": "Bolt.new · 对话生成全栈应用",
+    "url": "https://bolt.new",
+    "tag": "编程"
+  },
+  {
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
+  },
+  {
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
+    "tag": "对话"
+  },
+  {
+    "title": "Playground · 免费画布生图",
+    "url": "https://playground.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
     "tag": "语音"
   },
   {
-    "title": "剪映国内版 · 国内短视频剪辑",
-    "url": "https://www.capcut.cn",
-    "tag": "视频"
+    "title": "Ideogram · 文字渲染出色",
+    "url": "https://ideogram.ai",
+    "tag": "绘画"
   },
   {
-    "title": "Windsurf · Codeium AI IDE",
-    "url": "https://windsurf.com",
-    "tag": "编程"
+    "title": "Upscayl · 开源图片放大",
+    "url": "https://upscayl.org",
+    "tag": "设计"
   }
 ]
