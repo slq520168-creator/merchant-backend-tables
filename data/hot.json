@@ -1,52 +1,52 @@
 [
   {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "QuillBot · 英文改写",
-    "url": "https://quillbot.com",
-    "tag": "写作"
-  },
-  {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
-  },
-  {
-    "title": "Udio · AI作曲演唱",
-    "url": "https://www.udio.com",
-    "tag": "音乐"
-  },
-  {
     "title": "Playground · 免费画布生图",
     "url": "https://playground.com",
     "tag": "绘画"
   },
   {
-    "title": "Recraft · 矢量与品牌图",
-    "url": "https://www.recraft.ai",
+    "title": "通义万相 · 阿里文生图",
+    "url": "https://wanxiang.aliyun.com",
     "tag": "绘画"
   },
   {
-    "title": "飞书妙记 · 会议纪要转写",
-    "url": "https://www.feishu.cn/product/minutes",
-    "tag": "语音"
+    "title": "DeepSeek · 深度求索 免费推理",
+    "url": "https://chat.deepseek.com",
+    "tag": "对话"
   },
   {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
-    "tag": "编程"
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
   },
   {
-    "title": "Adobe Firefly · 商用安全生图",
-    "url": "https://firefly.adobe.com",
-    "tag": "绘画"
+    "title": "Invideo AI · 文案自动成片",
+    "url": "https://invideo.io",
+    "tag": "视频"
+  },
+  {
+    "title": "扣子 Coze · 字节智能体搭建",
+    "url": "https://www.coze.cn",
+    "tag": "智能体"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Zapier · 应用自动化连接",
+    "url": "https://zapier.com",
+    "tag": "智能体"
   },
   {
     "title": "网易见外 · 字幕视频翻译",
     "url": "https://jianwai.youdao.com",
     "tag": "翻译"
+  },
+  {
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
   }
 ]
