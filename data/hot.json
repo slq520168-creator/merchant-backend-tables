@@ -1,38 +1,13 @@
 [
   {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
-    "tag": "绘画"
+    "title": "ElevenLabs · 高真实感语音克隆",
+    "url": "https://elevenlabs.io",
+    "tag": "语音"
   },
   {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "DeepSeek · 深度求索 免费推理",
-    "url": "https://chat.deepseek.com",
-    "tag": "对话"
-  },
-  {
-    "title": "Ollama · 本地一键跑大模型",
-    "url": "https://ollama.com",
-    "tag": "开源本地"
-  },
-  {
-    "title": "Invideo AI · 文案自动成片",
-    "url": "https://invideo.io",
-    "tag": "视频"
-  },
-  {
-    "title": "扣子 Coze · 字节智能体搭建",
-    "url": "https://www.coze.cn",
-    "tag": "智能体"
-  },
-  {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
+    "tag": "设计"
   },
   {
     "title": "Zapier · 应用自动化连接",
@@ -40,13 +15,38 @@
     "tag": "智能体"
   },
   {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
+    "title": "ComfyUI · 节点式绘图工作流",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "tag": "开源本地"
   },
   {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
+    "title": "Suno · 文本生成歌曲",
+    "url": "https://suno.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "Felo · 多语言AI搜索",
+    "url": "https://felo.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "Synthesia · 企业数字人",
+    "url": "https://www.synthesia.io",
     "tag": "视频"
+  },
+  {
+    "title": "剪映国内版 · 国内短视频剪辑",
+    "url": "https://www.capcut.cn",
+    "tag": "视频"
+  },
+  {
+    "title": "Canva · 在线设计含AI",
+    "url": "https://www.canva.com",
+    "tag": "设计"
+  },
+  {
+    "title": "扣子 Coze · 字节智能体搭建",
+    "url": "https://www.coze.cn",
+    "tag": "智能体"
   }
 ]
