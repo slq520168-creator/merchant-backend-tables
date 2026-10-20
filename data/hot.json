@@ -1,8 +1,13 @@
 [
   {
-    "title": "ElevenLabs · 高真实感语音克隆",
-    "url": "https://elevenlabs.io",
-    "tag": "语音"
+    "title": "PixAI · 二次元绘画",
+    "url": "https://pixai.art",
+    "tag": "绘画"
+  },
+  {
+    "title": "QuillBot · 英文改写",
+    "url": "https://quillbot.com",
+    "tag": "写作"
   },
   {
     "title": "remove.bg · 一键挖图",
@@ -10,43 +15,38 @@
     "tag": "设计"
   },
   {
+    "title": "Leonardo · 风格化生图",
+    "url": "https://leonardo.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
+  },
+  {
+    "title": "Jenni · 论文写作助手",
+    "url": "https://jenni.ai",
+    "tag": "写作"
+  },
+  {
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "通义灵码 · 阿里编程助手",
+    "url": "https://lingma.aliyun.com",
+    "tag": "编程"
+  },
+  {
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
+    "tag": "语音"
+  },
+  {
     "title": "Zapier · 应用自动化连接",
     "url": "https://zapier.com",
-    "tag": "智能体"
-  },
-  {
-    "title": "ComfyUI · 节点式绘图工作流",
-    "url": "https://github.com/comfyanonymous/ComfyUI",
-    "tag": "开源本地"
-  },
-  {
-    "title": "Suno · 文本生成歌曲",
-    "url": "https://suno.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "Felo · 多语言AI搜索",
-    "url": "https://felo.ai",
-    "tag": "搜索"
-  },
-  {
-    "title": "Synthesia · 企业数字人",
-    "url": "https://www.synthesia.io",
-    "tag": "视频"
-  },
-  {
-    "title": "剪映国内版 · 国内短视频剪辑",
-    "url": "https://www.capcut.cn",
-    "tag": "视频"
-  },
-  {
-    "title": "Canva · 在线设计含AI",
-    "url": "https://www.canva.com",
-    "tag": "设计"
-  },
-  {
-    "title": "扣子 Coze · 字节智能体搭建",
-    "url": "https://www.coze.cn",
     "tag": "智能体"
   }
 ]
