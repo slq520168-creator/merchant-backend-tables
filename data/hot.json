@@ -1,28 +1,23 @@
 [
   {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
+    "title": "Leonardo · 风格化生图",
+    "url": "https://leonardo.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "腾讯元宝 · 腾讯混元助手",
+    "url": "https://yuanbao.tencent.com",
     "tag": "对话"
   },
   {
-    "title": "ComfyUI · 节点式绘图工作流",
-    "url": "https://github.com/comfyanonymous/ComfyUI",
-    "tag": "开源本地"
-  },
-  {
-    "title": "QuillBot · 英文改写",
-    "url": "https://quillbot.com",
-    "tag": "写作"
-  },
-  {
-    "title": "文心一言 · 百度文心对话",
-    "url": "https://yiyan.baidu.com",
-    "tag": "对话"
-  },
-  {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
-    "tag": "搜索"
+    "title": "Whisper · 开源语音识别",
+    "url": "https://openai.com/research/whisper",
+    "tag": "语音"
   },
   {
     "title": "remove.bg · 一键挖图",
@@ -30,23 +25,28 @@
     "tag": "设计"
   },
   {
-    "title": "Poe · 多模型聚合对话",
-    "url": "https://poe.com",
-    "tag": "对话"
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
   },
   {
-    "title": "Elicit · 文献研究助手",
-    "url": "https://elicit.com",
+    "title": "You.com · AI 搜索引擎",
+    "url": "https://you.com",
     "tag": "搜索"
   },
   {
-    "title": "智谱清言 · GLM 中文对话",
-    "url": "https://chatglm.cn",
-    "tag": "对话"
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
+    "tag": "搜索"
   },
   {
-    "title": "Grok · xAI 实时联网",
-    "url": "https://grok.com",
-    "tag": "对话"
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
+  },
+  {
+    "title": "Replit · 浏览器写代码部署",
+    "url": "https://replit.com",
+    "tag": "编程"
   }
 ]
