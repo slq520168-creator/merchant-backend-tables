@@ -1,52 +1,52 @@
 [
   {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "SeaArt · 海艺免费绘画",
-    "url": "https://www.seaart.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "腾讯元宝 · 腾讯混元助手",
-    "url": "https://yuanbao.tencent.com",
+    "title": "Claude · Anthropic 长文与推理",
+    "url": "https://claude.ai",
     "tag": "对话"
   },
   {
-    "title": "Whisper · 开源语音识别",
-    "url": "https://openai.com/research/whisper",
+    "title": "天工音乐 · 昆仑万维音乐",
+    "url": "https://music.tiangong.cn",
+    "tag": "音乐"
+  },
+  {
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "可灵 · 快手视频生成",
+    "url": "https://klingai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Meta AI · Meta 免费助手",
+    "url": "https://www.meta.ai",
+    "tag": "对话"
+  },
+  {
+    "title": "Runway · 专业视频生成剪辑",
+    "url": "https://runwayml.com",
+    "tag": "视频"
+  },
+  {
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "飞书妙记 · 会议纪要转写",
+    "url": "https://www.feishu.cn/product/minutes",
     "tag": "语音"
   },
   {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
-    "tag": "设计"
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
   },
   {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "You.com · AI 搜索引擎",
-    "url": "https://you.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
-    "tag": "语音"
-  },
-  {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
-    "tag": "编程"
+    "title": "Grok · xAI 实时联网",
+    "url": "https://grok.com",
+    "tag": "对话"
   }
 ]
