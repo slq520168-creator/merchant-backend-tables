@@ -1,18 +1,23 @@
 [
   {
-    "title": "Claude · Anthropic 长文与推理",
-    "url": "https://claude.ai",
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Kimi · 月之暗面 超长上下文",
+    "url": "https://kimi.moonshot.cn",
     "tag": "对话"
   },
   {
-    "title": "天工音乐 · 昆仑万维音乐",
-    "url": "https://music.tiangong.cn",
-    "tag": "音乐"
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
   },
   {
-    "title": "Ollama · 本地一键跑大模型",
-    "url": "https://ollama.com",
-    "tag": "开源本地"
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
   },
   {
     "title": "可灵 · 快手视频生成",
@@ -20,33 +25,28 @@
     "tag": "视频"
   },
   {
-    "title": "Meta AI · Meta 免费助手",
-    "url": "https://www.meta.ai",
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Upscayl · 开源图片放大",
+    "url": "https://upscayl.org",
+    "tag": "设计"
+  },
+  {
+    "title": "GPTs · ChatGPT 自定义GPT",
+    "url": "https://chatgpt.com/gpts",
+    "tag": "智能体"
+  },
+  {
+    "title": "文心一言 · 百度文心对话",
+    "url": "https://yiyan.baidu.com",
     "tag": "对话"
   },
   {
-    "title": "Runway · 专业视频生成剪辑",
-    "url": "https://runwayml.com",
-    "tag": "视频"
-  },
-  {
-    "title": "文心一格 · 百度国风绘画",
-    "url": "https://yige.baidu.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "飞书妙记 · 会议纪要转写",
-    "url": "https://www.feishu.cn/product/minutes",
-    "tag": "语音"
-  },
-  {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Grok · xAI 实时联网",
-    "url": "https://grok.com",
-    "tag": "对话"
+    "title": "You.com · AI 搜索引擎",
+    "url": "https://you.com",
+    "tag": "搜索"
   }
 ]
