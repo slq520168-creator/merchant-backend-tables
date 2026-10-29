@@ -1,52 +1,52 @@
 [
   {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "Windsurf · Codeium AI IDE",
-    "url": "https://windsurf.com",
-    "tag": "编程"
-  },
-  {
-    "title": "Continue · 开源IDE插件",
-    "url": "https://www.continue.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "Grammarly · 英文润色校对",
-    "url": "https://www.grammarly.com",
+    "title": "Jenni · 论文写作助手",
+    "url": "https://jenni.ai",
     "tag": "写作"
   },
   {
-    "title": "Elicit · 文献研究助手",
-    "url": "https://elicit.com",
+    "title": "Meshy · 文生3D模型",
+    "url": "https://www.meshy.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "You.com · AI 搜索引擎",
+    "url": "https://you.com",
     "tag": "搜索"
   },
   {
-    "title": "文心快码 · 百度编程助手",
-    "url": "https://comate.baidu.com",
-    "tag": "编程"
+    "title": "腾讯智影 · 腾讯数字人视频",
+    "url": "https://zenvideo.qq.com",
+    "tag": "视频"
   },
   {
-    "title": "GitHub Copilot · IDE 代码补全",
-    "url": "https://github.com/features/copilot",
-    "tag": "编程"
+    "title": "飞书 · 飞书办公协作",
+    "url": "https://www.feishu.cn",
+    "tag": "办公"
   },
   {
-    "title": "Zapier · 应用自动化连接",
-    "url": "https://zapier.com",
-    "tag": "智能体"
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
+    "tag": "对话"
   },
   {
-    "title": "Flux · 开源真实感绘图",
-    "url": "https://flux.ai",
-    "tag": "绘画"
+    "title": "海螺视频 · MiniMax 视频",
+    "url": "https://hailuoai.com",
+    "tag": "视频"
   },
   {
-    "title": "Canva · 在线设计含AI",
-    "url": "https://www.canva.com",
-    "tag": "设计"
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
+  },
+  {
+    "title": "Open WebUI · 本地Chat界面",
+    "url": "https://openwebui.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "ElevenLabs · 高真实感语音克隆",
+    "url": "https://elevenlabs.io",
+    "tag": "语音"
   }
 ]
