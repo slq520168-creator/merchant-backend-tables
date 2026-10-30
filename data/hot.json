@@ -1,52 +1,52 @@
 [
   {
-    "title": "Jenni · 论文写作助手",
-    "url": "https://jenni.ai",
-    "tag": "写作"
-  },
-  {
-    "title": "Meshy · 文生3D模型",
-    "url": "https://www.meshy.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "You.com · AI 搜索引擎",
-    "url": "https://you.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
-  },
-  {
-    "title": "飞书 · 飞书办公协作",
-    "url": "https://www.feishu.cn",
+    "title": "ChatDOC · 文档问答",
+    "url": "https://chatdoc.com",
     "tag": "办公"
   },
   {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
+    "title": "Udio · AI作曲演唱",
+    "url": "https://www.udio.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "Tripo · 图像转3D",
+    "url": "https://www.tripo3d.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "通义千问 · 阿里通义对话",
+    "url": "https://tongyi.aliyun.com",
     "tag": "对话"
   },
   {
-    "title": "海螺视频 · MiniMax 视频",
-    "url": "https://hailuoai.com",
+    "title": "创客贴 · 海报模板设计",
+    "url": "https://www.chuangkit.com",
+    "tag": "设计"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
+  },
+  {
+    "title": "Stable Diffusion · 开源可本地部署",
+    "url": "https://stability.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "Aider · 终端结对编程",
+    "url": "https://aider.chat",
+    "tag": "编程"
+  },
+  {
+    "title": "Luma · Dream Machine",
+    "url": "https://lumalabs.ai",
     "tag": "视频"
-  },
-  {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
-    "tag": "语音"
-  },
-  {
-    "title": "Open WebUI · 本地Chat界面",
-    "url": "https://openwebui.com",
-    "tag": "开源本地"
-  },
-  {
-    "title": "ElevenLabs · 高真实感语音克隆",
-    "url": "https://elevenlabs.io",
-    "tag": "语音"
   }
 ]
