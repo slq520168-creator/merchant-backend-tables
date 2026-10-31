@@ -1,8 +1,28 @@
 [
   {
-    "title": "ChatDOC · 文档问答",
-    "url": "https://chatdoc.com",
-    "tag": "办公"
+    "title": "Trae · 字节免费AI IDE",
+    "url": "https://www.trae.ai",
+    "tag": "编程"
+  },
+  {
+    "title": "Ollama · 本地一键跑大模型",
+    "url": "https://ollama.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Lovable · 自然语言做网站",
+    "url": "https://lovable.dev",
+    "tag": "编程"
+  },
+  {
+    "title": "Recraft · 矢量与品牌图",
+    "url": "https://www.recraft.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "Consensus · 论文结论搜索",
+    "url": "https://consensus.app",
+    "tag": "搜索"
   },
   {
     "title": "Udio · AI作曲演唱",
@@ -10,24 +30,14 @@
     "tag": "音乐"
   },
   {
-    "title": "Tripo · 图像转3D",
-    "url": "https://www.tripo3d.ai",
-    "tag": "3D"
+    "title": "沉浸式翻译 · 网页双语对照",
+    "url": "https://immersivetranslate.com",
+    "tag": "翻译"
   },
   {
-    "title": "Civitai · 开源模型市场",
-    "url": "https://civitai.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "通义千问 · 阿里通义对话",
-    "url": "https://tongyi.aliyun.com",
-    "tag": "对话"
-  },
-  {
-    "title": "创客贴 · 海报模板设计",
-    "url": "https://www.chuangkit.com",
-    "tag": "设计"
+    "title": "HeyGen · 数字人口播",
+    "url": "https://www.heygen.com",
+    "tag": "视频"
   },
   {
     "title": "WPS AI · 文档表格PPT助手",
@@ -35,18 +45,8 @@
     "tag": "办公"
   },
   {
-    "title": "Stable Diffusion · 开源可本地部署",
-    "url": "https://stability.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Aider · 终端结对编程",
-    "url": "https://aider.chat",
-    "tag": "编程"
-  },
-  {
-    "title": "Luma · Dream Machine",
-    "url": "https://lumalabs.ai",
-    "tag": "视频"
+    "title": "Gemini · 谷歌多模态助手",
+    "url": "https://gemini.google.com",
+    "tag": "对话"
   }
 ]
