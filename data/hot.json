@@ -1,52 +1,52 @@
 [
   {
-    "title": "Ideogram · 文字渲染出色",
-    "url": "https://ideogram.ai",
-    "tag": "绘画"
+    "title": "Replit · 浏览器写代码部署",
+    "url": "https://replit.com",
+    "tag": "编程"
   },
   {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
-    "tag": "对话"
+    "title": "Genspark · AI 超级搜索代理",
+    "url": "https://www.genspark.ai",
+    "tag": "搜索"
   },
   {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
-    "tag": "智能体"
+    "title": "Elicit · 文献研究助手",
+    "url": "https://elicit.com",
+    "tag": "搜索"
   },
   {
-    "title": "Invideo AI · 文案自动成片",
-    "url": "https://invideo.io",
+    "title": "Synthesia · 企业数字人",
+    "url": "https://www.synthesia.io",
     "tag": "视频"
   },
   {
-    "title": "GitHub Copilot · IDE 代码补全",
-    "url": "https://github.com/features/copilot",
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
+    "tag": "对话"
+  },
+  {
+    "title": "ChatDOC · 文档问答",
+    "url": "https://chatdoc.com",
+    "tag": "办公"
+  },
+  {
+    "title": "Cursor · AI 原生编辑器",
+    "url": "https://cursor.com",
     "tag": "编程"
   },
   {
-    "title": "Windsurf · Codeium AI IDE",
-    "url": "https://windsurf.com",
-    "tag": "编程"
+    "title": "ComfyUI · 节点式绘图工作流",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "tag": "开源本地"
   },
   {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
+    "title": "Continue · 开源IDE插件",
+    "url": "https://www.continue.dev",
+    "tag": "编程"
   },
   {
     "title": "PixAI · 二次元绘画",
     "url": "https://pixai.art",
     "tag": "绘画"
-  },
-  {
-    "title": "飞书 · 飞书办公协作",
-    "url": "https://www.feishu.cn",
-    "tag": "办公"
-  },
-  {
-    "title": "FastGPT · 知识库问答搭建",
-    "url": "https://fastgpt.in",
-    "tag": "智能体"
   }
 ]
