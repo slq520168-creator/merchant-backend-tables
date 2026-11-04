@@ -1,18 +1,18 @@
 [
   {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
-    "tag": "编程"
+    "title": "Krea · 实时绘图增强",
+    "url": "https://www.krea.ai",
+    "tag": "绘画"
   },
   {
-    "title": "Genspark · AI 超级搜索代理",
-    "url": "https://www.genspark.ai",
-    "tag": "搜索"
+    "title": "n8n · 开源工作流自动化",
+    "url": "https://n8n.io",
+    "tag": "智能体"
   },
   {
-    "title": "Elicit · 文献研究助手",
-    "url": "https://elicit.com",
-    "tag": "搜索"
+    "title": "剪映国内版 · 国内短视频剪辑",
+    "url": "https://www.capcut.cn",
+    "tag": "视频"
   },
   {
     "title": "Synthesia · 企业数字人",
@@ -20,33 +20,33 @@
     "tag": "视频"
   },
   {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
-    "tag": "对话"
-  },
-  {
-    "title": "ChatDOC · 文档问答",
-    "url": "https://chatdoc.com",
-    "tag": "办公"
-  },
-  {
-    "title": "Cursor · AI 原生编辑器",
-    "url": "https://cursor.com",
-    "tag": "编程"
-  },
-  {
-    "title": "ComfyUI · 节点式绘图工作流",
-    "url": "https://github.com/comfyanonymous/ComfyUI",
-    "tag": "开源本地"
-  },
-  {
-    "title": "Continue · 开源IDE插件",
-    "url": "https://www.continue.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "PixAI · 二次元绘画",
-    "url": "https://pixai.art",
+    "title": "Recraft · 矢量与品牌图",
+    "url": "https://www.recraft.ai",
     "tag": "绘画"
+  },
+  {
+    "title": "Liblib · 哩布哩布模型社区",
+    "url": "https://www.liblib.art",
+    "tag": "绘画"
+  },
+  {
+    "title": "Luma Genie · 文本生成3D",
+    "url": "https://lumalabs.ai/genie",
+    "tag": "3D"
+  },
+  {
+    "title": "Genspark · AI 超级搜索代理",
+    "url": "https://www.genspark.ai",
+    "tag": "搜索"
+  },
+  {
+    "title": "GitHub Copilot · IDE 代码补全",
+    "url": "https://github.com/features/copilot",
+    "tag": "编程"
+  },
+  {
+    "title": "Tripo · 图像转3D",
+    "url": "https://www.tripo3d.ai",
+    "tag": "3D"
   }
 ]
