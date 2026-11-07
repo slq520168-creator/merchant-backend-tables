@@ -1,43 +1,43 @@
 [
   {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
+    "title": "Synthesia · 企业数字人",
+    "url": "https://www.synthesia.io",
+    "tag": "视频"
+  },
+  {
+    "title": "Stable Diffusion · 开源可本地部署",
+    "url": "https://stability.ai",
     "tag": "绘画"
   },
   {
-    "title": "Upscayl · 开源图片放大",
-    "url": "https://upscayl.org",
-    "tag": "设计"
+    "title": "文心一言 · 百度文心对话",
+    "url": "https://yiyan.baidu.com",
+    "tag": "对话"
   },
   {
-    "title": "扣子 Coze · 字节智能体搭建",
-    "url": "https://www.coze.cn",
-    "tag": "智能体"
+    "title": "即梦视频 · 字节视频生成",
+    "url": "https://jimeng.jianying.com",
+    "tag": "视频"
   },
   {
-    "title": "ChatDOC · 文档问答",
-    "url": "https://chatdoc.com",
+    "title": "Notion AI · 笔记知识库",
+    "url": "https://www.notion.so/product/ai",
     "tag": "办公"
   },
   {
-    "title": "Trae · 字节免费AI IDE",
-    "url": "https://www.trae.ai",
-    "tag": "编程"
-  },
-  {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
     "tag": "绘画"
   },
   {
-    "title": "Looka · AI做Logo",
-    "url": "https://looka.com",
-    "tag": "设计"
+    "title": "Runway · 专业视频生成剪辑",
+    "url": "https://runwayml.com",
+    "tag": "视频"
   },
   {
-    "title": "You.com · AI 搜索引擎",
-    "url": "https://you.com",
-    "tag": "搜索"
+    "title": "Meshy · 文生3D模型",
+    "url": "https://www.meshy.ai",
+    "tag": "3D"
   },
   {
     "title": "剪映国内版 · 国内短视频剪辑",
@@ -45,8 +45,8 @@
     "tag": "视频"
   },
   {
-    "title": "DeepL · 高质量翻译",
-    "url": "https://www.deepl.com",
-    "tag": "翻译"
+    "title": "飞书 · 飞书办公协作",
+    "url": "https://www.feishu.cn",
+    "tag": "办公"
   }
 ]
