@@ -1,52 +1,52 @@
 [
   {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
-    "tag": "对话"
+    "title": "腾讯智影 · 腾讯数字人视频",
+    "url": "https://zenvideo.qq.com",
+    "tag": "视频"
   },
   {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
-    "tag": "对话"
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
+    "tag": "搜索"
   },
   {
-    "title": "ChatGPT · OpenAI 综合对话写作",
-    "url": "https://chatgpt.com",
-    "tag": "对话"
+    "title": "飞书妙记 · 会议纪要转写",
+    "url": "https://www.feishu.cn/product/minutes",
+    "tag": "语音"
   },
   {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
+    "title": "Phind · 程序员AI搜索",
+    "url": "https://www.phind.com",
+    "tag": "搜索"
   },
   {
-    "title": "ChatDOC · 文档问答",
-    "url": "https://chatdoc.com",
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "秘塔写作猫 · 中文写作辅助",
+    "url": "https://xiezuocat.com",
+    "tag": "写作"
+  },
+  {
+    "title": "剪映国内版 · 国内短视频剪辑",
+    "url": "https://www.capcut.cn",
+    "tag": "视频"
+  },
+  {
+    "title": "Notion AI · 笔记知识库",
+    "url": "https://www.notion.so/product/ai",
     "tag": "办公"
   },
   {
-    "title": "文心快码 · 百度编程助手",
-    "url": "https://comate.baidu.com",
-    "tag": "编程"
+    "title": "LM Studio · 本地模型桌面端",
+    "url": "https://lmstudio.ai",
+    "tag": "开源本地"
   },
   {
-    "title": "Suno · 文本生成歌曲",
-    "url": "https://suno.com",
-    "tag": "音乐"
-  },
-  {
-    "title": "Meshy · 文生3D模型",
-    "url": "https://www.meshy.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "文心一言 · 百度文心对话",
-    "url": "https://yiyan.baidu.com",
-    "tag": "对话"
+    "title": "HeyGen · 数字人口播",
+    "url": "https://www.heygen.com",
+    "tag": "视频"
   }
 ]
