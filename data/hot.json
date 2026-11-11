@@ -1,52 +1,52 @@
 [
   {
-    "title": "腾讯智影 · 腾讯数字人视频",
-    "url": "https://zenvideo.qq.com",
-    "tag": "视频"
+    "title": "讯飞星火 · 科大讯飞助手",
+    "url": "https://xinghuo.xfyun.cn",
+    "tag": "对话"
   },
   {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
+    "tag": "智能体"
+  },
+  {
+    "title": "天工音乐 · 昆仑万维音乐",
+    "url": "https://music.tiangong.cn",
+    "tag": "音乐"
+  },
+  {
+    "title": "Adobe Firefly · 商用安全生图",
+    "url": "https://firefly.adobe.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "remove.bg · 一键挖图",
+    "url": "https://www.remove.bg",
+    "tag": "设计"
+  },
+  {
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "秘塔AI · 无广告中文AI搜索",
+    "url": "https://metaso.cn",
     "tag": "搜索"
   },
   {
-    "title": "飞书妙记 · 会议纪要转写",
-    "url": "https://www.feishu.cn/product/minutes",
-    "tag": "语音"
+    "title": "文心快码 · 百度编程助手",
+    "url": "https://comate.baidu.com",
+    "tag": "编程"
   },
   {
-    "title": "Phind · 程序员AI搜索",
-    "url": "https://www.phind.com",
-    "tag": "搜索"
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
+    "tag": "绘画"
   },
   {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
-  },
-  {
-    "title": "秘塔写作猫 · 中文写作辅助",
-    "url": "https://xiezuocat.com",
-    "tag": "写作"
-  },
-  {
-    "title": "剪映国内版 · 国内短视频剪辑",
-    "url": "https://www.capcut.cn",
-    "tag": "视频"
-  },
-  {
-    "title": "Notion AI · 笔记知识库",
-    "url": "https://www.notion.so/product/ai",
-    "tag": "办公"
-  },
-  {
-    "title": "LM Studio · 本地模型桌面端",
-    "url": "https://lmstudio.ai",
-    "tag": "开源本地"
-  },
-  {
-    "title": "HeyGen · 数字人口播",
-    "url": "https://www.heygen.com",
-    "tag": "视频"
+    "title": "Claude · Anthropic 长文与推理",
+    "url": "https://claude.ai",
+    "tag": "对话"
   }
 ]
