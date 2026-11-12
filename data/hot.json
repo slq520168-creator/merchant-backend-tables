@@ -1,52 +1,52 @@
 [
   {
-    "title": "讯飞星火 · 科大讯飞助手",
-    "url": "https://xinghuo.xfyun.cn",
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
+  },
+  {
+    "title": "Luma · Dream Machine",
+    "url": "https://lumalabs.ai",
+    "tag": "视频"
+  },
+  {
+    "title": "Mistral · 欧洲开源对话",
+    "url": "https://chat.mistral.ai",
     "tag": "对话"
   },
   {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
-    "tag": "智能体"
-  },
-  {
-    "title": "天工音乐 · 昆仑万维音乐",
-    "url": "https://music.tiangong.cn",
-    "tag": "音乐"
-  },
-  {
-    "title": "Adobe Firefly · 商用安全生图",
-    "url": "https://firefly.adobe.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
+    "title": "创客贴 · 海报模板设计",
+    "url": "https://www.chuangkit.com",
     "tag": "设计"
   },
   {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
   },
   {
-    "title": "秘塔AI · 无广告中文AI搜索",
-    "url": "https://metaso.cn",
+    "title": "Canva · 在线设计含AI",
+    "url": "https://www.canva.com",
+    "tag": "设计"
+  },
+  {
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
     "tag": "搜索"
   },
   {
-    "title": "文心快码 · 百度编程助手",
-    "url": "https://comate.baidu.com",
-    "tag": "编程"
-  },
-  {
-    "title": "SeaArt · 海艺免费绘画",
-    "url": "https://www.seaart.ai",
+    "title": "Playground · 免费画布生图",
+    "url": "https://playground.com",
     "tag": "绘画"
   },
   {
-    "title": "Claude · Anthropic 长文与推理",
-    "url": "https://claude.ai",
-    "tag": "对话"
+    "title": "Bolt.new · 对话生成全栈应用",
+    "url": "https://bolt.new",
+    "tag": "编程"
+  },
+  {
+    "title": "Perplexity · 带引用的AI搜索",
+    "url": "https://www.perplexity.ai",
+    "tag": "搜索"
   }
 ]
