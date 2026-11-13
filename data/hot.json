@@ -1,23 +1,13 @@
 [
   {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
-    "tag": "语音"
+    "title": "Google翻译 · 免费多语翻译",
+    "url": "https://translate.google.com",
+    "tag": "翻译"
   },
   {
-    "title": "Luma · Dream Machine",
-    "url": "https://lumalabs.ai",
-    "tag": "视频"
-  },
-  {
-    "title": "Mistral · 欧洲开源对话",
-    "url": "https://chat.mistral.ai",
-    "tag": "对话"
-  },
-  {
-    "title": "创客贴 · 海报模板设计",
-    "url": "https://www.chuangkit.com",
-    "tag": "设计"
+    "title": "Continue · 开源IDE插件",
+    "url": "https://www.continue.dev",
+    "tag": "编程"
   },
   {
     "title": "Hugging Face · 开源模型社区",
@@ -25,28 +15,38 @@
     "tag": "开源本地"
   },
   {
-    "title": "Canva · 在线设计含AI",
-    "url": "https://www.canva.com",
-    "tag": "设计"
+    "title": "Udio · AI作曲演唱",
+    "url": "https://www.udio.com",
+    "tag": "音乐"
   },
   {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
+    "title": "Tripo · 图像转3D",
+    "url": "https://www.tripo3d.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "Consensus · 论文结论搜索",
+    "url": "https://consensus.app",
     "tag": "搜索"
   },
   {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
+    "title": "海螺视频 · MiniMax 视频",
+    "url": "https://hailuoai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Bing Image Creator · 微软免费生图",
+    "url": "https://www.bing.com/images/create",
     "tag": "绘画"
+  },
+  {
+    "title": "Cline · 开源VSCode智能体",
+    "url": "https://github.com/cline/cline",
+    "tag": "编程"
   },
   {
     "title": "Bolt.new · 对话生成全栈应用",
     "url": "https://bolt.new",
     "tag": "编程"
-  },
-  {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
   }
 ]
