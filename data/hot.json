@@ -1,52 +1,52 @@
 [
   {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
+    "title": "Cursor · AI 原生编辑器",
+    "url": "https://cursor.com",
     "tag": "编程"
   },
   {
-    "title": "remove.bg · 一键挖图",
-    "url": "https://www.remove.bg",
+    "title": "GPTs · ChatGPT 自定义GPT",
+    "url": "https://chatgpt.com/gpts",
+    "tag": "智能体"
+  },
+  {
+    "title": "Open WebUI · 本地Chat界面",
+    "url": "https://openwebui.com",
+    "tag": "开源本地"
+  },
+  {
+    "title": "Poe · 多模型聚合对话",
+    "url": "https://poe.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Canva · 在线设计含AI",
+    "url": "https://www.canva.com",
     "tag": "设计"
   },
   {
-    "title": "Liblib · 哩布哩布模型社区",
-    "url": "https://www.liblib.art",
+    "title": "腾讯智影 · 腾讯数字人视频",
+    "url": "https://zenvideo.qq.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Luma Genie · 文本生成3D",
+    "url": "https://lumalabs.ai/genie",
+    "tag": "3D"
+  },
+  {
+    "title": "Flux · 开源真实感绘图",
+    "url": "https://flux.ai",
     "tag": "绘画"
   },
   {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
-    "tag": "对话"
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
+    "tag": "绘画"
   },
   {
     "title": "智谱清言 · GLM 中文对话",
     "url": "https://chatglm.cn",
     "tag": "对话"
-  },
-  {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
-  },
-  {
-    "title": "Looka · AI做Logo",
-    "url": "https://looka.com",
-    "tag": "设计"
-  },
-  {
-    "title": "腾讯元宝 · 腾讯混元助手",
-    "url": "https://yuanbao.tencent.com",
-    "tag": "对话"
-  },
-  {
-    "title": "通义万相 · 阿里文生图",
-    "url": "https://wanxiang.aliyun.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Ideogram · 文字渲染出色",
-    "url": "https://ideogram.ai",
-    "tag": "绘画"
   }
 ]
