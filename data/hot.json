@@ -1,22 +1,27 @@
 [
   {
-    "title": "通义灵码 · 阿里编程助手",
-    "url": "https://lingma.aliyun.com",
-    "tag": "编程"
+    "title": "CapCut 剪映 · 免费AI剪辑字幕",
+    "url": "https://www.capcut.com",
+    "tag": "视频"
   },
   {
-    "title": "Consensus · 论文结论搜索",
-    "url": "https://consensus.app",
-    "tag": "搜索"
+    "title": "讯飞配音 · 中文配音",
+    "url": "https://peiyin.xunfei.cn",
+    "tag": "语音"
   },
   {
-    "title": "Bing Image Creator · 微软免费生图",
-    "url": "https://www.bing.com/images/create",
+    "title": "可灵 · 快手视频生成",
+    "url": "https://klingai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
     "tag": "绘画"
   },
   {
-    "title": "Runway · 专业视频生成剪辑",
-    "url": "https://runwayml.com",
+    "title": "HeyGen · 数字人口播",
+    "url": "https://www.heygen.com",
     "tag": "视频"
   },
   {
@@ -25,28 +30,23 @@
     "tag": "绘画"
   },
   {
-    "title": "Jenni · 论文写作助手",
-    "url": "https://jenni.ai",
-    "tag": "写作"
+    "title": "网易见外 · 字幕视频翻译",
+    "url": "https://jianwai.youdao.com",
+    "tag": "翻译"
   },
   {
-    "title": "稿定设计 · 中文在线设计",
-    "url": "https://www.gaoding.com",
+    "title": "Lovable · 自然语言做网站",
+    "url": "https://lovable.dev",
+    "tag": "编程"
+  },
+  {
+    "title": "文心一格 · 百度国风绘画",
+    "url": "https://yige.baidu.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "Looka · AI做Logo",
+    "url": "https://looka.com",
     "tag": "设计"
-  },
-  {
-    "title": "Krea · 实时绘图增强",
-    "url": "https://www.krea.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Vidu · 生数视频生成",
-    "url": "https://www.vidu.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
-    "tag": "绘画"
   }
 ]
