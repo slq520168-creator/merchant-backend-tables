@@ -1,52 +1,52 @@
 [
   {
-    "title": "CapCut 剪映 · 免费AI剪辑字幕",
-    "url": "https://www.capcut.com",
+    "title": "Flux · 开源真实感绘图",
+    "url": "https://flux.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "You.com · AI 搜索引擎",
+    "url": "https://you.com",
+    "tag": "搜索"
+  },
+  {
+    "title": "Consensus · 论文结论搜索",
+    "url": "https://consensus.app",
+    "tag": "搜索"
+  },
+  {
+    "title": "豆包 · 字节免费助手",
+    "url": "https://www.doubao.com",
+    "tag": "对话"
+  },
+  {
+    "title": "n8n · 开源工作流自动化",
+    "url": "https://n8n.io",
+    "tag": "智能体"
+  },
+  {
+    "title": "Liblib · 哩布哩布模型社区",
+    "url": "https://www.liblib.art",
+    "tag": "绘画"
+  },
+  {
+    "title": "海螺视频 · MiniMax 视频",
+    "url": "https://hailuoai.com",
     "tag": "视频"
   },
   {
-    "title": "讯飞配音 · 中文配音",
-    "url": "https://peiyin.xunfei.cn",
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
+    "tag": "绘画"
+  },
+  {
+    "title": "HuggingChat · 开源模型在线聊",
+    "url": "https://huggingface.co/chat",
+    "tag": "对话"
+  },
+  {
+    "title": "ElevenLabs · 高真实感语音克隆",
+    "url": "https://elevenlabs.io",
     "tag": "语音"
-  },
-  {
-    "title": "可灵 · 快手视频生成",
-    "url": "https://klingai.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Civitai · 开源模型市场",
-    "url": "https://civitai.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "HeyGen · 数字人口播",
-    "url": "https://www.heygen.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Leonardo · 风格化生图",
-    "url": "https://leonardo.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "网易见外 · 字幕视频翻译",
-    "url": "https://jianwai.youdao.com",
-    "tag": "翻译"
-  },
-  {
-    "title": "Lovable · 自然语言做网站",
-    "url": "https://lovable.dev",
-    "tag": "编程"
-  },
-  {
-    "title": "文心一格 · 百度国风绘画",
-    "url": "https://yige.baidu.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Looka · AI做Logo",
-    "url": "https://looka.com",
-    "tag": "设计"
   }
 ]
