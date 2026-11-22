@@ -1,18 +1,8 @@
 [
   {
-    "title": "Windsurf · Codeium AI IDE",
-    "url": "https://windsurf.com",
-    "tag": "编程"
-  },
-  {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
-    "tag": "编程"
-  },
-  {
-    "title": "D-ID · 照片说话视频",
-    "url": "https://www.d-id.com",
-    "tag": "视频"
+    "title": "SeaArt · 海艺免费绘画",
+    "url": "https://www.seaart.ai",
+    "tag": "绘画"
   },
   {
     "title": "文心快码 · 百度编程助手",
@@ -20,33 +10,43 @@
     "tag": "编程"
   },
   {
-    "title": "Elicit · 文献研究助手",
-    "url": "https://elicit.com",
-    "tag": "搜索"
-  },
-  {
-    "title": "Invideo AI · 文案自动成片",
-    "url": "https://invideo.io",
-    "tag": "视频"
-  },
-  {
-    "title": "腾讯元宝 · 腾讯混元助手",
-    "url": "https://yuanbao.tencent.com",
-    "tag": "对话"
-  },
-  {
     "title": "ChatGPT · OpenAI 综合对话写作",
     "url": "https://chatgpt.com",
     "tag": "对话"
   },
   {
-    "title": "沉浸式翻译 · 网页双语对照",
-    "url": "https://immersivetranslate.com",
-    "tag": "翻译"
+    "title": "通义千问 · 阿里通义对话",
+    "url": "https://tongyi.aliyun.com",
+    "tag": "对话"
   },
   {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
+    "title": "FastGPT · 知识库问答搭建",
+    "url": "https://fastgpt.in",
+    "tag": "智能体"
+  },
+  {
+    "title": "海螺视频 · MiniMax 视频",
+    "url": "https://hailuoai.com",
+    "tag": "视频"
+  },
+  {
+    "title": "Meshy · 文生3D模型",
+    "url": "https://www.meshy.ai",
+    "tag": "3D"
+  },
+  {
+    "title": "Gemini · 谷歌多模态助手",
+    "url": "https://gemini.google.com",
+    "tag": "对话"
+  },
+  {
+    "title": "Trae · 字节免费AI IDE",
+    "url": "https://www.trae.ai",
+    "tag": "编程"
+  },
+  {
+    "title": "Upscayl · 开源图片放大",
+    "url": "https://upscayl.org",
+    "tag": "设计"
   }
 ]
