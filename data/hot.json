@@ -1,43 +1,13 @@
 [
   {
-    "title": "SeaArt · 海艺免费绘画",
-    "url": "https://www.seaart.ai",
-    "tag": "绘画"
+    "title": "Grok · xAI 实时联网",
+    "url": "https://grok.com",
+    "tag": "对话"
   },
   {
-    "title": "文心快码 · 百度编程助手",
-    "url": "https://comate.baidu.com",
+    "title": "Cursor · AI 原生编辑器",
+    "url": "https://cursor.com",
     "tag": "编程"
-  },
-  {
-    "title": "ChatGPT · OpenAI 综合对话写作",
-    "url": "https://chatgpt.com",
-    "tag": "对话"
-  },
-  {
-    "title": "通义千问 · 阿里通义对话",
-    "url": "https://tongyi.aliyun.com",
-    "tag": "对话"
-  },
-  {
-    "title": "FastGPT · 知识库问答搭建",
-    "url": "https://fastgpt.in",
-    "tag": "智能体"
-  },
-  {
-    "title": "海螺视频 · MiniMax 视频",
-    "url": "https://hailuoai.com",
-    "tag": "视频"
-  },
-  {
-    "title": "Meshy · 文生3D模型",
-    "url": "https://www.meshy.ai",
-    "tag": "3D"
-  },
-  {
-    "title": "Gemini · 谷歌多模态助手",
-    "url": "https://gemini.google.com",
-    "tag": "对话"
   },
   {
     "title": "Trae · 字节免费AI IDE",
@@ -45,8 +15,38 @@
     "tag": "编程"
   },
   {
-    "title": "Upscayl · 开源图片放大",
-    "url": "https://upscayl.org",
-    "tag": "设计"
+    "title": "Civitai · 开源模型市场",
+    "url": "https://civitai.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "吐司AI · 在线SD绘画社区",
+    "url": "https://tusi.cn",
+    "tag": "绘画"
+  },
+  {
+    "title": "Google翻译 · 免费多语翻译",
+    "url": "https://translate.google.com",
+    "tag": "翻译"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
+  },
+  {
+    "title": "FastGPT · 知识库问答搭建",
+    "url": "https://fastgpt.in",
+    "tag": "智能体"
+  },
+  {
+    "title": "即梦 · 字节文生图/视频",
+    "url": "https://jimeng.jianying.com",
+    "tag": "绘画"
+  },
+  {
+    "title": "NotebookLM · 谷歌文档研究笔记本",
+    "url": "https://notebooklm.google.com",
+    "tag": "搜索"
   }
 ]
