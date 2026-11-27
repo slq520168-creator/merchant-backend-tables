@@ -1,8 +1,13 @@
 [
   {
-    "title": "HuggingChat · 开源模型在线聊",
-    "url": "https://huggingface.co/chat",
-    "tag": "对话"
+    "title": "文心快码 · 百度编程助手",
+    "url": "https://comate.baidu.com",
+    "tag": "编程"
+  },
+  {
+    "title": "Flux · 开源真实感绘图",
+    "url": "https://flux.ai",
+    "tag": "绘画"
   },
   {
     "title": "Consensus · 论文结论搜索",
@@ -10,43 +15,38 @@
     "tag": "搜索"
   },
   {
-    "title": "钉钉 · 钉钉智能办公",
-    "url": "https://www.dingtalk.com",
-    "tag": "办公"
-  },
-  {
-    "title": "Playground · 免费画布生图",
-    "url": "https://playground.com",
-    "tag": "绘画"
-  },
-  {
-    "title": "Cline · 开源VSCode智能体",
-    "url": "https://github.com/cline/cline",
+    "title": "Replit · 浏览器写代码部署",
+    "url": "https://replit.com",
     "tag": "编程"
   },
   {
-    "title": "ElevenLabs · 高真实感语音克隆",
-    "url": "https://elevenlabs.io",
-    "tag": "语音"
+    "title": "Poe · 多模型聚合对话",
+    "url": "https://poe.com",
+    "tag": "对话"
   },
   {
-    "title": "Perplexity · 带引用的AI搜索",
-    "url": "https://www.perplexity.ai",
-    "tag": "搜索"
+    "title": "FastGPT · 知识库问答搭建",
+    "url": "https://fastgpt.in",
+    "tag": "智能体"
   },
   {
-    "title": "Adobe Firefly · 商用安全生图",
-    "url": "https://firefly.adobe.com",
-    "tag": "绘画"
+    "title": "Dify · 开源LLM应用平台",
+    "url": "https://dify.ai",
+    "tag": "智能体"
   },
   {
-    "title": "NotebookLM · 谷歌文档研究笔记本",
-    "url": "https://notebooklm.google.com",
-    "tag": "搜索"
+    "title": "飞书 · 飞书办公协作",
+    "url": "https://www.feishu.cn",
+    "tag": "办公"
   },
   {
-    "title": "Luma Genie · 文本生成3D",
-    "url": "https://lumalabs.ai/genie",
-    "tag": "3D"
+    "title": "Meta AI · Meta 免费助手",
+    "url": "https://www.meta.ai",
+    "tag": "对话"
+  },
+  {
+    "title": "Hugging Face · 开源模型社区",
+    "url": "https://huggingface.co",
+    "tag": "开源本地"
   }
 ]
