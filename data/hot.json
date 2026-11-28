@@ -1,52 +1,52 @@
 [
   {
-    "title": "文心快码 · 百度编程助手",
-    "url": "https://comate.baidu.com",
-    "tag": "编程"
-  },
-  {
-    "title": "Flux · 开源真实感绘图",
-    "url": "https://flux.ai",
-    "tag": "绘画"
-  },
-  {
-    "title": "Consensus · 论文结论搜索",
-    "url": "https://consensus.app",
-    "tag": "搜索"
-  },
-  {
-    "title": "Replit · 浏览器写代码部署",
-    "url": "https://replit.com",
-    "tag": "编程"
-  },
-  {
-    "title": "Poe · 多模型聚合对话",
-    "url": "https://poe.com",
-    "tag": "对话"
-  },
-  {
-    "title": "FastGPT · 知识库问答搭建",
-    "url": "https://fastgpt.in",
-    "tag": "智能体"
-  },
-  {
-    "title": "Dify · 开源LLM应用平台",
-    "url": "https://dify.ai",
-    "tag": "智能体"
-  },
-  {
     "title": "飞书 · 飞书办公协作",
     "url": "https://www.feishu.cn",
     "tag": "办公"
   },
   {
-    "title": "Meta AI · Meta 免费助手",
-    "url": "https://www.meta.ai",
+    "title": "扣子 Coze · 字节智能体搭建",
+    "url": "https://www.coze.cn",
+    "tag": "智能体"
+  },
+  {
+    "title": "WPS AI · 文档表格PPT助手",
+    "url": "https://ai.wps.cn",
+    "tag": "办公"
+  },
+  {
+    "title": "Luma · Dream Machine",
+    "url": "https://lumalabs.ai",
+    "tag": "视频"
+  },
+  {
+    "title": "Udio · AI作曲演唱",
+    "url": "https://www.udio.com",
+    "tag": "音乐"
+  },
+  {
+    "title": "Cline · 开源VSCode智能体",
+    "url": "https://github.com/cline/cline",
+    "tag": "编程"
+  },
+  {
+    "title": "LMArena · 多模型对战评测",
+    "url": "https://lmarena.ai",
     "tag": "对话"
   },
   {
-    "title": "Hugging Face · 开源模型社区",
-    "url": "https://huggingface.co",
-    "tag": "开源本地"
+    "title": "钉钉 · 钉钉智能办公",
+    "url": "https://www.dingtalk.com",
+    "tag": "办公"
+  },
+  {
+    "title": "通义灵码 · 阿里编程助手",
+    "url": "https://lingma.aliyun.com",
+    "tag": "编程"
+  },
+  {
+    "title": "Runway · 专业视频生成剪辑",
+    "url": "https://runwayml.com",
+    "tag": "视频"
   }
 ]
